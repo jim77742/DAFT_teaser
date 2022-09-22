@@ -1,4 +1,4 @@
-# DAFT_demo
+# DAFT_teaser
 
 This is a highly simplified version of what's available when you get Data Analysis For (Cricket) Tragics, yes that's us - DAFT
 
