@@ -1,0 +1,673 @@
+match_id,team,teams,venue,competition,captain,wicketkeeper,start_date,end_date,days_for_match,winner,result_type,winning_margin,innings,wickets,runs,wides,noballs,byes,legbyes,time,rest_days
+20000102_01481_Sydney,India,1,Sydney (SCG),NA,"Tendulkar, SR (b1973-4-24)","Prasad, MSK (b1975-4-24)",2000-01-02,2000-01-04,5,Australia,innings and runs,141,1,10,150,1,4,0,12,295,0
+20000102_01481_Sydney,India,1,Sydney (SCG),NA,"Tendulkar, SR (b1973-4-24)","Prasad, MSK (b1975-4-24)",2000-01-02,2000-01-04,5,Australia,innings and runs,141,2,9,261,1,14,4,2,262,0
+20001123_01516_Gabba,West Indies,1,Brisbane ('Gabba),NA,"Adams, JC (b1968-1-9)","Jacobs, RD (b1967-11-26)",2000-11-23,2000-11-25,5,Australia,innings and runs,126,1,10,82,0,1,0,6,208,0
+20001123_01516_Gabba,West Indies,1,Brisbane ('Gabba),NA,"Adams, JC (b1968-1-9)","Jacobs, RD (b1967-11-26)",2000-11-23,2000-11-25,5,Australia,innings and runs,126,2,10,124,0,4,8,3,249,0
+20001201_01520_Perth,West Indies,1,Perth (WACA),NA,"Adams, JC (b1968-1-9)","Jacobs, RD (b1967-11-26)",2000-12-01,2000-12-03,5,Australia,innings and runs,27,1,10,196,0,7,0,3,276,0
+20001201_01520_Perth,West Indies,1,Perth (WACA),NA,"Adams, JC (b1968-1-9)","Jacobs, RD (b1967-11-26)",2000-12-01,2000-12-03,5,Australia,innings and runs,27,2,10,173,0,3,1,8,288,0
+20001215_01523_Adlaide,West Indies,1,Adelaide,NA,"Adams, JC (b1968-1-9)","Jacobs, RD (b1967-11-26)",2000-12-15,2000-12-19,5,Australia,wickets,5,1,10,391,0,6,3,12,520,0
+20001215_01523_Adlaide,West Indies,1,Adelaide,NA,"Adams, JC (b1968-1-9)","Jacobs, RD (b1967-11-26)",2000-12-15,2000-12-19,5,Australia,wickets,5,2,10,141,1,1,6,3,211,0
+20001226_01525_MCG,Australia,1,Melbourne (MCG),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2000-12-26,2000-12-29,5,Australia,runs,352,1,10,364,1,17,0,4,502,0
+20001226_01525_MCG,Australia,1,Melbourne (MCG),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2000-12-26,2000-12-29,5,Australia,runs,352,2,5,262,1,3,5,4,325,0
+20010102_01527_Sydney,West Indies,1,Sydney (SCG),NA,"Adams, JC (b1968-1-9)","Jacobs, RD (b1967-11-26)",2001-01-02,2001-01-06,5,Australia,wickets,6,1,10,272,0,2,4,4,363,0
+20010102_01527_Sydney,West Indies,1,Sydney (SCG),NA,"Adams, JC (b1968-1-9)","Jacobs, RD (b1967-11-26)",2001-01-02,2001-01-06,5,Australia,wickets,6,2,10,352,0,3,5,10,434,0
+20010227_01531_Wankhed,India,1,Mumbai (Wankhede),NA,"Ganguly, SC (b1972-7-8)","Mongia, NR (b1969-12-19)",2001-02-27,2001-03-01,5,Australia,wickets,10,1,10,176,1,1,2,3,300,0
+20010227_01531_Wankhed,India,1,Mumbai (Wankhede),NA,"Ganguly, SC (b1972-7-8)","Mongia, NR (b1969-12-19)",2001-02-27,2001-03-01,5,Australia,wickets,10,2,10,219,0,1,4,1,378,0
+20010311_01535_Calcutt,Australia,1,Kolkata (Calcutta),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2001-03-11,2001-03-15,5,India,runs,171,1,10,445,0,7,19,10,578,0
+20010311_01535_Calcutt,Australia,1,Kolkata (Calcutta),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2001-03-11,2001-03-15,5,India,runs,171,2,10,212,0,8,6,0,272,0
+20010318_01539_Chepauk,Australia,1,Chennai (Chepauk),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2001-03-18,2001-03-22,5,India,wickets,2,1,10,391,0,10,8,10,474,0
+20010318_01539_Chepauk,Australia,1,Chennai (Chepauk),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2001-03-18,2001-03-22,5,India,wickets,2,2,10,264,0,4,8,6,373,0
+20010705_01550_Edgbast,England,1,Birmingham (Edgbaston),NA,"Hussain, N (b1968-3-28)","Stewart, AJ (b1963-4-8)",2001-07-05,2001-07-08,5,Australia,innings and runs,118,1,10,294,0,16,10,8,289,0
+20010705_01550_Edgbast,England,1,Birmingham (Edgbaston),NA,"Hussain, N (b1968-3-28)","Stewart, AJ (b1963-4-8)",2001-07-05,2001-07-08,5,Australia,innings and runs,118,2,9,164,0,12,1,5,218,0
+20010719_01552_Lord's,England,1,Lord's,NA,"Atherton, MA (b1968-3-23)","Stewart, AJ (b1963-4-8)",2001-07-19,2001-07-22,5,Australia,wickets,8,1,10,187,2,11,7,8,294,0
+20010719_01552_Lord's,England,1,Lord's,NA,"Atherton, MA (b1968-3-23)","Stewart, AJ (b1963-4-8)",2001-07-19,2001-07-22,5,Australia,wickets,8,2,10,227,2,9,0,3,287,0
+20010802_01554_TrentBr,England,1,Nottingham (Trent Bridge),NA,"Atherton, MA (b1968-3-23)","Stewart, AJ (b1963-4-8)",2001-08-02,2001-08-04,5,Australia,wickets,7,1,10,185,1,7,1,9,225,0
+20010802_01554_TrentBr,England,1,Nottingham (Trent Bridge),NA,"Atherton, MA (b1968-3-23)","Stewart, AJ (b1963-4-8)",2001-08-02,2001-08-04,5,Australia,wickets,7,2,10,162,0,7,4,3,243,0
+20010816_01556_Headgly,Australia,1,Leeds (Headingley),NA,"Gilchrist, AC (b1971-11-14)","Gilchrist, AC (b1971-11-14)",2001-08-16,2001-08-20,5,England,wickets,6,1,10,447,1,9,5,15,449,0
+20010816_01556_Headgly,Australia,1,Leeds (Headingley),NA,"Gilchrist, AC (b1971-11-14)","Gilchrist, AC (b1971-11-14)",2001-08-16,2001-08-20,5,England,wickets,6,2,4,176,0,11,5,7,182,0
+20010823_01558_TheOval,Australia,1,The Oval,NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2001-08-23,2001-08-27,5,Australia,innings and runs,25,1,4,641,1,19,10,13,624,0
+20010823_01558_TheOval,Australia,1,The Oval,NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2001-08-23,2001-08-27,5,Australia,innings and runs,25,2,0,0,0,0,0,0,0,0
+20011108_01565_Gabba,Australia,1,Brisbane ('Gabba),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2001-11-08,2001-11-12,5,draw,draw,0,1,9,486,1,8,0,4,550,0
+20011108_01565_Gabba,Australia,1,Brisbane ('Gabba),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2001-11-08,2001-11-12,5,draw,draw,0,2,2,84,0,1,0,0,57,0
+20011122_01571_Bellrve,Australia,1,Hobart (Bellerive),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2001-11-22,2001-11-26,5,draw,draw,0,1,8,558,2,15,3,5,506,0
+20011122_01571_Bellrve,Australia,1,Hobart (Bellerive),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2001-11-22,2001-11-26,5,draw,draw,0,2,0,0,0,0,0,0,0,0
+20011130_01573_Perth,New Zealand,1,Perth (WACA),NA,"Fleming, SP (b1973-4-1)","Parore, AC (b1971-1-23)",2001-11-30,2001-12-04,5,draw,draw,0,1,9,534,2,13,4,15,683,0
+20011130_01573_Perth,New Zealand,1,Perth (WACA),NA,"Fleming, SP (b1973-4-1)","Parore, AC (b1971-1-23)",2001-11-30,2001-12-04,5,draw,draw,0,2,9,256,0,4,1,6,322,0
+20011214_01576_Adlaide,Australia,1,Adelaide,NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2001-12-14,2001-12-18,5,Australia,runs,246,1,10,439,0,10,0,6,574,0
+20011214_01576_Adlaide,Australia,1,Adelaide,NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2001-12-14,2001-12-18,5,Australia,runs,246,2,7,309,0,7,8,16,324,0
+20011226_01580_MCG,South Africa,1,Melbourne (MCG),NA,"Pollock, SM (b1973-7-16)","Boucher, MV (b1976-12-3)",2001-12-26,2001-12-29,5,Australia,wickets,9,1,10,277,0,7,1,10,427,0
+20011226_01580_MCG,South Africa,1,Melbourne (MCG),NA,"Pollock, SM (b1973-7-16)","Boucher, MV (b1976-12-3)",2001-12-26,2001-12-29,5,Australia,wickets,9,2,10,219,0,2,4,0,331,0
+20020102_01582_Sydney,Australia,1,Sydney (SCG),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2002-01-02,2002-01-05,5,Australia,wickets,10,1,10,554,1,9,4,8,554,0
+20020102_01582_Sydney,Australia,1,Sydney (SCG),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2002-01-02,2002-01-05,5,Australia,wickets,10,2,0,54,0,1,0,2,44,0
+20020222_01590_Wandrer,Australia,1,Johannesburg (Wanderers),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2002-02-22,2002-02-24,5,Australia,innings and runs,360,1,7,652,4,5,2,14,626,0
+20020222_01590_Wandrer,Australia,1,Johannesburg (Wanderers),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2002-02-22,2002-02-24,5,Australia,innings and runs,360,2,0,0,0,0,0,0,0,0
+20020308_01593_CapeTn,South Africa,1,Cape Town,NA,"Boucher, MV (b1976-12-3)","Boucher, MV (b1976-12-3)",2002-03-08,2002-03-12,5,Australia,wickets,4,1,10,239,0,5,4,5,355,0
+20020308_01593_CapeTn,South Africa,1,Cape Town,NA,"Boucher, MV (b1976-12-3)","Boucher, MV (b1976-12-3)",2002-03-08,2002-03-12,5,Australia,wickets,4,2,10,473,2,3,8,3,686,0
+20020315_01595_Kingsmd,Australia,1,Durban (Kingsmead),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2002-03-15,2002-03-18,5,South Africa,wickets,5,1,10,315,2,0,0,0,338,0
+20020315_01595_Kingsmd,Australia,1,Durban (Kingsmead),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2002-03-15,2002-03-18,5,South Africa,wickets,5,2,10,186,1,2,1,3,224,0
+20021003_01615_ColombP,Australia,1,Colombo (PSS),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2002-10-03,2002-10-07,5,Australia,runs,41,1,10,467,0,5,4,16,554,0
+20021003_01615_ColombP,Australia,1,Colombo (PSS),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2002-10-03,2002-10-07,5,Australia,runs,41,2,10,127,0,2,4,12,200,0
+20021011_01617_Sharjah,Pakistan,1,Sharjah,NA,Waqar Younis (b1969-11-16),Rashid Latif (b1968-10-14),2002-10-11,2002-10-12,5,Australia,innings and runs,198,1,10,59,0,4,8,2,150,0
+20021011_01617_Sharjah,Pakistan,1,Sharjah,NA,Waqar Younis (b1969-11-16),Rashid Latif (b1968-10-14),2002-10-11,2002-10-12,5,Australia,innings and runs,198,2,9,53,0,2,0,0,130,0
+20021019_01620_Sharjah,Australia,1,Sharjah,NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2002-10-19,2002-10-22,5,Australia,innings and runs,20,1,10,444,0,3,4,10,582,0
+20021019_01620_Sharjah,Australia,1,Sharjah,NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2002-10-19,2002-10-22,5,Australia,innings and runs,20,2,0,0,0,0,0,0,0,0
+20021107_01623_Gabba,Australia,1,Brisbane ('Gabba),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2002-11-07,2002-11-10,5,Australia,runs,384,1,10,492,1,7,1,11,578,0
+20021107_01623_Gabba,Australia,1,Brisbane ('Gabba),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2002-11-07,2002-11-10,5,Australia,runs,384,2,5,296,0,4,3,5,307,0
+20021121_01628_Adlaide,England,1,Adelaide,NA,"Hussain, N (b1968-3-28)","Stewart, AJ (b1963-4-8)",2002-11-21,2002-11-24,5,Australia,innings and runs,51,1,10,342,0,8,0,7,484,0
+20021121_01628_Adlaide,England,1,Adelaide,NA,"Hussain, N (b1968-3-28)","Stewart, AJ (b1963-4-8)",2002-11-21,2002-11-24,5,Australia,innings and runs,51,2,10,159,0,8,3,4,257,0
+20021129_01629_Perth,England,1,Perth (WACA),NA,"Hussain, N (b1968-3-28)","Stewart, AJ (b1963-4-8)",2002-11-29,2002-12-01,5,Australia,innings and runs,48,1,10,185,0,7,0,2,295,0
+20021129_01629_Perth,England,1,Perth (WACA),NA,"Hussain, N (b1968-3-28)","Stewart, AJ (b1963-4-8)",2002-11-29,2002-12-01,5,Australia,innings and runs,48,2,8,223,1,15,8,5,377,0
+20021226_01634_MCG,Australia,1,Melbourne (MCG),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2002-12-26,2002-12-30,5,Australia,wickets,5,1,6,551,5,5,0,11,588,0
+20021226_01634_MCG,Australia,1,Melbourne (MCG),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2002-12-26,2002-12-30,5,Australia,wickets,5,2,5,107,0,9,8,5,113,0
+20030102_01636_Sydney,England,1,Sydney (SCG),NA,"Hussain, N (b1968-3-28)","Stewart, AJ (b1963-4-8)",2003-01-02,2003-01-06,5,England,runs,225,1,10,362,0,13,6,3,546,0
+20030102_01636_Sydney,England,1,Sydney (SCG),NA,"Hussain, N (b1968-3-28)","Stewart, AJ (b1963-4-8)",2003-01-02,2003-01-06,5,England,runs,225,2,9,452,2,10,9,20,543,0
+20030410_01638_GeorgTn,West Indies,1,Georgetown (Guyana),NA,"Lara, BC (b1969-5-2)","Jacobs, RD (b1967-11-26)",2003-04-10,2003-04-13,5,Australia,wickets,9,1,10,237,3,6,10,2,237,0
+20030410_01638_GeorgTn,West Indies,1,Georgetown (Guyana),NA,"Lara, BC (b1969-5-2)","Jacobs, RD (b1967-11-26)",2003-04-10,2003-04-13,5,Australia,wickets,9,2,10,398,1,22,6,13,450,0
+20030419_01639_PortSp,Australia,1,Port-of-Spain (Trinidad),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2003-04-19,2003-04-23,5,Australia,runs,118,1,4,576,7,12,11,7,580,0
+20030419_01639_PortSp,Australia,1,Port-of-Spain (Trinidad),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2003-04-19,2003-04-23,5,Australia,runs,118,2,3,238,1,5,12,6,275,0
+20030501_01643_Bridgtn,Australia,1,Bridgetown (Barbados),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2003-05-01,2003-05-05,5,Australia,wickets,9,1,9,605,3,2,3,3,675,0
+20030501_01643_Bridgtn,Australia,1,Bridgetown (Barbados),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2003-05-01,2003-05-05,5,Australia,wickets,9,2,1,8,0,0,2,0,11,0
+20030718_01650_DarwnM,Bangladesh,1,Darwin (Marrara CG),NA,Khaled Mahmud (b1971-7-26),Khaled Mashud (b1976-2-8),2003-07-18,2003-07-20,5,Australia,innings and runs,132,1,10,97,6,3,1,5,171,0
+20030718_01650_DarwnM,Bangladesh,1,Darwin (Marrara CG),NA,Khaled Mahmud (b1971-7-26),Khaled Mashud (b1976-2-8),2003-07-18,2003-07-20,5,Australia,innings and runs,132,2,10,178,2,3,0,6,217,0
+20030725_01652_Cairns,Bangladesh,1,Cairns,NA,Khaled Mahmud (b1971-7-26),Khaled Mashud (b1976-2-8),2003-07-25,2003-07-28,5,Australia,innings and runs,98,1,10,295,0,11,0,8,378,0
+20030725_01652_Cairns,Bangladesh,1,Cairns,NA,Khaled Mahmud (b1971-7-26),Khaled Mashud (b1976-2-8),2003-07-25,2003-07-28,5,Australia,innings and runs,98,2,10,163,0,2,0,2,233,0
+20031009_01661_Perth,Australia,1,Perth (WACA),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2003-10-09,2003-10-13,5,Australia,innings and runs,175,1,6,735,1,3,4,10,622,0
+20031009_01661_Perth,Australia,1,Perth (WACA),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2003-10-09,2003-10-13,5,Australia,innings and runs,175,2,0,0,0,0,0,0,0,0
+20031017_01663_Sydney,Zimbabwe,1,Sydney (SCG),NA,"Streak, HH (b1974-3-16)","Taibu, T (b1983-5-14)",2003-10-17,2003-10-20,5,Australia,wickets,9,1,10,308,3,9,4,12,441,0
+20031017_01663_Sydney,Zimbabwe,1,Sydney (SCG),NA,"Streak, HH (b1974-3-16)","Taibu, T (b1983-5-14)",2003-10-17,2003-10-20,5,Australia,wickets,9,2,10,266,1,4,6,5,342,0
+20031204_01671_Gabba,Australia,1,Brisbane ('Gabba),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2003-12-04,2003-12-08,5,draw,draw,0,1,10,323,2,14,4,7,391,0
+20031204_01671_Gabba,Australia,1,Brisbane ('Gabba),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2003-12-04,2003-12-08,5,draw,draw,0,2,3,284,0,9,4,0,240,0
+20031212_01673_Adlaide,Australia,1,Adelaide,NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2003-12-12,2003-12-16,5,India,wickets,4,1,10,556,1,4,1,7,537,0
+20031212_01673_Adlaide,Australia,1,Adelaide,NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2003-12-12,2003-12-16,5,India,wickets,4,2,10,196,1,1,2,2,248,0
+20031226_01678_MCG,India,1,Melbourne (MCG),NA,"Ganguly, SC (b1972-7-8)","Patel, PA (b1985-3-9)",2003-12-26,2003-12-30,5,Australia,wickets,9,1,10,366,1,11,0,3,424,0
+20031226_01678_MCG,India,1,Melbourne (MCG),NA,"Ganguly, SC (b1972-7-8)","Patel, PA (b1985-3-9)",2003-12-26,2003-12-30,5,Australia,wickets,9,2,10,286,1,7,4,3,410,0
+20040102_01680_Sydney,India,1,Sydney (SCG),NA,"Ganguly, SC (b1972-7-8)","Patel, PA (b1985-3-9)",2004-01-02,2004-01-06,5,draw,draw,0,1,7,705,4,25,4,5,806,0
+20040102_01680_Sydney,India,1,Sydney (SCG),NA,"Ganguly, SC (b1972-7-8)","Patel, PA (b1985-3-9)",2004-01-02,2004-01-06,5,draw,draw,0,2,2,211,1,7,0,3,185,0
+20040308_01685_Galle,Australia,1,Galle,NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2004-03-08,2004-03-12,5,Australia,runs,197,1,10,220,0,0,3,6,265,0
+20040308_01685_Galle,Australia,1,Galle,NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2004-03-08,2004-03-12,5,Australia,runs,197,2,8,512,0,2,15,28,612,0
+20040316_01688_Kandy,Australia,1,Kandy,NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2004-03-16,2004-03-20,5,Australia,runs,27,1,10,120,0,0,1,3,200,0
+20040316_01688_Kandy,Australia,1,Kandy,NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2004-03-16,2004-03-20,5,Australia,runs,27,2,10,442,0,1,2,7,575,0
+20040324_01691_ColSSC,Australia,1,Colombo (SSC),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2004-03-24,2004-03-28,5,Australia,runs,121,1,10,401,0,4,13,9,486,0
+20040324_01691_ColSSC,Australia,1,Colombo (SSC),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2004-03-24,2004-03-28,5,Australia,runs,121,2,10,375,4,6,11,11,467,0
+20040709_01706_Cairns,Australia,1,Cairns,NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2004-07-09,2004-07-13,5,draw,draw,0,1,10,517,4,7,7,3,530,0
+20040709_01706_Cairns,Australia,1,Cairns,NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2004-07-09,2004-07-13,5,draw,draw,0,2,9,292,1,4,0,20,285,0
+20041103_01720_Wankhed,India,1,Mumbai (Wankhede),NA,"Dravid, RS (b1973-1-11)","Karthik, KD (b1985-6-1)",2004-11-03,2004-11-05,5,India,runs,13,1,10,104,0,1,6,7,190,0
+20041103_01720_Wankhed,India,1,Mumbai (Wankhede),NA,"Dravid, RS (b1973-1-11)","Karthik, KD (b1985-6-1)",2004-11-03,2004-11-05,5,India,runs,13,2,10,205,0,0,4,0,300,0
+20041118_01721_Gabba,New Zealand,1,Brisbane ('Gabba),NA,"Fleming, SP (b1973-4-1)","McCullum, BB (b1981-9-27)",2004-11-18,2004-11-21,5,Australia,innings and runs,156,1,10,353,3,4,1,2,488,0
+20041118_01721_Gabba,New Zealand,1,Brisbane ('Gabba),NA,"Fleming, SP (b1973-4-1)","McCullum, BB (b1981-9-27)",2004-11-18,2004-11-21,5,Australia,innings and runs,156,2,10,76,0,4,0,2,165,0
+20041126_01723_Adlaide,Australia,1,Adelaide,NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2004-11-26,2004-11-30,5,Australia,runs,213,1,8,575,0,4,4,4,636,0
+20041126_01723_Adlaide,Australia,1,Adelaide,NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2004-11-26,2004-11-30,5,Australia,runs,213,2,2,139,0,1,0,6,220,0
+20041216_01726_Perth,Australia,1,Perth (WACA),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2004-12-16,2004-12-19,5,Australia,runs,491,1,10,381,5,10,1,14,413,0
+20041216_01726_Perth,Australia,1,Perth (WACA),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2004-12-16,2004-12-19,5,Australia,runs,491,2,5,361,2,7,0,15,344,0
+20041226_01729_MCG,Pakistan,1,Melbourne (MCG),NA,Mohammad Yousuf (b1974-8-27),Kamran Akmal (b1982-1-13),2004-12-26,2004-12-29,5,Australia,wickets,9,1,10,341,1,0,0,4,454,0
+20041226_01729_MCG,Pakistan,1,Melbourne (MCG),NA,Mohammad Yousuf (b1974-8-27),Kamran Akmal (b1982-1-13),2004-12-26,2004-12-29,5,Australia,wickets,9,2,10,163,0,1,4,1,268,0
+20050102_01731_Sydney,Pakistan,1,Sydney (SCG),NA,Mohammad Yousuf (b1974-8-27),Kamran Akmal (b1982-1-13),2005-01-02,2005-01-05,5,Australia,wickets,9,1,10,304,1,3,6,2,360,0
+20050102_01731_Sydney,Pakistan,1,Sydney (SCG),NA,Mohammad Yousuf (b1974-8-27),Kamran Akmal (b1982-1-13),2005-01-02,2005-01-05,5,Australia,wickets,9,2,10,325,0,2,4,3,374,0
+20050310_01739_ChrChch,New Zealand,1,Christchurch,NA,"Fleming, SP (b1973-4-1)","McCullum, BB (b1981-9-27)",2005-03-10,2005-03-13,5,Australia,wickets,9,1,10,433,2,2,4,14,561,0
+20050310_01739_ChrChch,New Zealand,1,Christchurch,NA,"Fleming, SP (b1973-4-1)","McCullum, BB (b1981-9-27)",2005-03-10,2005-03-13,5,Australia,wickets,9,2,10,131,0,1,1,1,230,0
+20050318_01742_Wellton,Australia,1,Wellington,NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2005-03-18,2005-03-22,5,draw,draw,0,1,8,570,2,16,4,8,560,0
+20050318_01742_Wellton,Australia,1,Wellington,NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2005-03-18,2005-03-22,5,draw,draw,0,2,0,0,0,0,0,0,0,0
+20050326_01744_Aucklnd,New Zealand,1,Auckland,NA,"Fleming, SP (b1973-4-1)","McCullum, BB (b1981-9-27)",2005-03-26,2005-03-29,5,Australia,wickets,9,1,10,292,0,2,4,13,480,0
+20050326_01744_Aucklnd,New Zealand,1,Auckland,NA,"Fleming, SP (b1973-4-1)","McCullum, BB (b1981-9-27)",2005-03-26,2005-03-29,5,Australia,wickets,9,2,10,254,0,2,1,14,301,0
+20050721_01756_Lord's,Australia,1,Lord's,NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2005-07-21,2005-07-24,5,Australia,runs,239,1,10,190,1,11,5,4,209,0
+20050721_01756_Lord's,Australia,1,Lord's,NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2005-07-21,2005-07-24,5,Australia,runs,239,2,10,384,0,8,10,8,457,0
+20050804_01758_Edgbast,England,1,Birmingham (Edgbaston),NA,"Vaughan, MP (b1974-10-29)","Jones, GO (b1976-7-14)",2005-08-04,2005-08-07,5,England,runs,2,1,10,407,1,14,0,9,356,0
+20050804_01758_Edgbast,England,1,Birmingham (Edgbaston),NA,"Vaughan, MP (b1974-10-29)","Jones, GO (b1976-7-14)",2005-08-04,2005-08-07,5,England,runs,2,2,10,182,0,9,0,1,249,0
+20050811_01760_OldTraf,England,1,Manchester (Old Trafford),NA,"Vaughan, MP (b1974-10-29)","Jones, GO (b1976-7-14)",2005-08-11,2005-08-15,5,draw,draw,0,1,10,444,3,15,4,5,503,0
+20050811_01760_OldTraf,England,1,Manchester (Old Trafford),NA,"Vaughan, MP (b1974-10-29)","Jones, GO (b1976-7-14)",2005-08-11,2005-08-15,5,draw,draw,0,2,6,280,1,14,5,3,288,0
+20050825_01762_TrentBr,England,1,Nottingham (Trent Bridge),NA,"Vaughan, MP (b1974-10-29)","Jones, GO (b1976-7-14)",2005-08-25,2005-08-28,5,England,wickets,3,1,10,477,1,25,1,15,537,0
+20050825_01762_TrentBr,England,1,Nottingham (Trent Bridge),NA,"Vaughan, MP (b1974-10-29)","Jones, GO (b1976-7-14)",2005-08-25,2005-08-28,5,England,wickets,3,2,7,129,0,5,0,4,168,0
+20050908_01763_TheOval,England,1,The Oval,NA,"Vaughan, MP (b1974-10-29)","Jones, GO (b1976-7-14)",2005-09-08,2005-09-12,5,draw,draw,0,1,10,373,1,7,4,6,471,0
+20050908_01763_TheOval,England,1,The Oval,NA,"Vaughan, MP (b1974-10-29)","Jones, GO (b1976-7-14)",2005-09-08,2005-09-12,5,draw,draw,0,2,10,335,7,5,4,0,432,0
+20051014_01768_Sydney,Australia,1,Sydney (SCG),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2005-10-14,2005-10-17,6,Australia,runs,210,1,10,345,3,6,5,11,386,0
+20051014_01768_Sydney,Australia,1,Sydney (SCG),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2005-10-14,2005-10-17,6,Australia,runs,210,2,10,199,0,2,7,7,303,0
+20051103_01769_Gabba,Australia,1,Brisbane ('Gabba),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2005-11-03,2005-11-06,5,Australia,runs,379,1,10,435,6,22,5,13,489,0
+20051103_01769_Gabba,Australia,1,Brisbane ('Gabba),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2005-11-03,2005-11-06,5,Australia,runs,379,2,2,283,1,8,6,3,258,0
+20051117_01771_Bellrve,West Indies,1,Hobart (Bellerive),NA,"Chanderpaul, S (b1974-8-16)","Ramdin, D (b1985-3-13)",2005-11-17,2005-11-21,5,Australia,wickets,9,1,10,149,1,3,0,3,293,0
+20051117_01771_Bellrve,West Indies,1,Hobart (Bellerive),NA,"Chanderpaul, S (b1974-8-16)","Ramdin, D (b1985-3-13)",2005-11-17,2005-11-21,5,Australia,wickets,9,2,10,334,1,3,4,12,499,0
+20051125_01773_Adlaide,West Indies,1,Adelaide,NA,"Chanderpaul, S (b1974-8-16)","Ramdin, D (b1985-3-13)",2005-11-25,2005-11-29,5,Australia,wickets,7,1,10,405,1,9,2,5,488,0
+20051125_01773_Adlaide,West Indies,1,Adelaide,NA,"Chanderpaul, S (b1974-8-16)","Ramdin, D (b1985-3-13)",2005-11-25,2005-11-29,5,Australia,wickets,7,2,10,204,0,0,0,2,339,0
+20051216_01777_Perth,Australia,1,Perth (WACA),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2005-12-16,2005-12-20,5,draw,draw,0,1,10,258,2,6,4,2,348,0
+20051216_01777_Perth,Australia,1,Perth (WACA),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2005-12-16,2005-12-20,5,draw,draw,0,2,8,528,1,17,5,4,651,0
+20051226_01779_MCG,Australia,1,Melbourne (MCG),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2005-12-26,2005-12-30,5,Australia,runs,184,1,10,355,2,4,2,4,506,0
+20051226_01779_MCG,Australia,1,Melbourne (MCG),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2005-12-26,2005-12-30,5,Australia,runs,184,2,7,321,0,9,6,3,361,0
+20060102_01780_Sydney,South Africa,1,Sydney (SCG),NA,"Smith, GC (b1981-2-1)","Boucher, MV (b1976-12-3)",2006-01-02,2006-01-06,5,Australia,wickets,8,1,9,451,0,16,9,6,660,0
+20060102_01780_Sydney,South Africa,1,Sydney (SCG),NA,"Smith, GC (b1981-2-1)","Boucher, MV (b1976-12-3)",2006-01-02,2006-01-06,5,Australia,wickets,8,2,6,194,3,2,3,4,200,0
+20060316_01789_CapeTn,South Africa,1,Cape Town,NA,"Smith, GC (b1981-2-1)","Boucher, MV (b1976-12-3)",2006-03-16,2006-03-18,5,Australia,wickets,7,1,10,205,0,15,0,6,280,0
+20060316_01789_CapeTn,South Africa,1,Cape Town,NA,"Smith, GC (b1981-2-1)","Boucher, MV (b1976-12-3)",2006-03-16,2006-03-18,5,Australia,wickets,7,2,10,197,3,7,0,0,291,0
+20060324_01792_Kingsmd,Australia,1,Durban (Kingsmead),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2006-03-24,2006-03-28,5,Australia,runs,112,1,10,369,2,7,9,10,555,0
+20060324_01792_Kingsmd,Australia,1,Durban (Kingsmead),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2006-03-24,2006-03-28,5,Australia,runs,112,2,4,307,1,7,0,5,361,0
+20060331_01795_Wandrer,South Africa,1,Johannesburg (Wanderers),NA,"Kallis, JH (b1975-10-16)","Boucher, MV (b1976-12-3)",2006-03-31,2006-04-04,5,Australia,wickets,2,1,10,303,0,9,0,4,434,0
+20060331_01795_Wandrer,South Africa,1,Johannesburg (Wanderers),NA,"Kallis, JH (b1975-10-16)","Boucher, MV (b1976-12-3)",2006-03-31,2006-04-04,5,Australia,wickets,2,2,10,258,1,5,6,4,334,0
+20060409_01797_Fatulh,Bangladesh,1,Fatullah,NA,Habibul Bashar (b1972-8-17),Khaled Mashud (b1976-2-8),2006-04-09,2006-04-13,5,Australia,wickets,3,1,10,427,2,11,0,16,545,0
+20060409_01797_Fatulh,Bangladesh,1,Fatullah,NA,Habibul Bashar (b1972-8-17),Khaled Mashud (b1976-2-8),2006-04-09,2006-04-13,5,Australia,wickets,3,2,10,148,0,4,10,7,230,0
+20060416_01799_ChitDiv,Bangladesh,1,Chittagong Divisional,NA,Habibul Bashar (b1972-8-17),Khaled Mashud (b1976-2-8),2006-04-16,2006-04-20,5,Australia,innings and runs,80,1,10,197,3,6,0,10,278,0
+20060416_01799_ChitDiv,Bangladesh,1,Chittagong Divisional,NA,Habibul Bashar (b1972-8-17),Khaled Mashud (b1976-2-8),2006-04-16,2006-04-20,5,Australia,innings and runs,80,2,10,304,2,5,7,11,353,0
+20061123_01817_Gabba,Australia,1,Brisbane ('Gabba),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2006-11-23,2006-11-27,5,Australia,runs,277,1,9,602,8,7,2,8,690,0
+20061123_01817_Gabba,Australia,1,Brisbane ('Gabba),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2006-11-23,2006-11-27,5,Australia,runs,277,2,1,202,0,1,0,4,199,0
+20061201_01819_Adlaide,England,1,Adelaide,NA,"Flintoff, A (b1977-12-6)","Jones, GO (b1976-7-14)",2006-12-01,2006-12-05,5,Australia,wickets,6,1,6,551,2,8,0,10,707,0
+20061201_01819_Adlaide,England,1,Adelaide,NA,"Flintoff, A (b1977-12-6)","Jones, GO (b1976-7-14)",2006-12-01,2006-12-05,5,Australia,wickets,6,2,10,129,1,2,3,5,324,0
+20061214_01821_Perth,Australia,1,Perth (WACA),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2006-12-14,2006-12-18,5,Australia,runs,206,1,10,244,1,4,0,0,313,0
+20061214_01821_Perth,Australia,1,Perth (WACA),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2006-12-14,2006-12-18,5,Australia,runs,206,2,5,527,2,1,0,15,504,0
+20061226_01824_MCG,England,1,Melbourne (MCG),NA,"Flintoff, A (b1977-12-6)","Read, CMW (b1978-8-10)",2006-12-26,2006-12-28,5,Australia,innings and runs,99,1,10,159,0,3,2,1,324,0
+20061226_01824_MCG,England,1,Melbourne (MCG),NA,"Flintoff, A (b1977-12-6)","Read, CMW (b1978-8-10)",2006-12-26,2006-12-28,5,Australia,innings and runs,99,2,10,161,1,4,0,12,305,0
+20070102_01826_Sydney,England,1,Sydney (SCG),NA,"Flintoff, A (b1977-12-6)","Read, CMW (b1978-8-10)",2007-01-02,2007-01-05,5,Australia,wickets,10,1,10,291,3,2,0,5,462,0
+20070102_01826_Sydney,England,1,Sydney (SCG),NA,"Flintoff, A (b1977-12-6)","Read, CMW (b1978-8-10)",2007-01-02,2007-01-05,5,Australia,wickets,10,2,10,147,1,3,2,3,278,0
+20071108_01845_Gabba,Australia,1,Brisbane ('Gabba),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2007-11-08,2007-11-12,5,Australia,innings and runs,40,1,4,551,1,4,4,12,650,0
+20071108_01845_Gabba,Australia,1,Brisbane ('Gabba),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2007-11-08,2007-11-12,5,Australia,innings and runs,40,2,0,0,0,0,0,0,0,0
+20071116_01847_Bellrve,Australia,1,Hobart (Bellerive),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2007-11-16,2007-11-20,5,Australia,runs,96,1,5,542,1,17,5,1,593,0
+20071116_01847_Bellrve,Australia,1,Hobart (Bellerive),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2007-11-16,2007-11-20,5,Australia,runs,96,2,2,210,0,19,2,1,203,0
+20071226_01855_MCG,Australia,1,Melbourne (MCG),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2007-12-26,2007-12-29,5,Australia,runs,337,1,10,343,2,9,0,5,400,0
+20071226_01855_MCG,Australia,1,Melbourne (MCG),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2007-12-26,2007-12-29,5,Australia,runs,337,2,7,351,0,13,0,3,380,0
+20080102_01857_Sydney,Australia,1,Sydney (SCG),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2008-01-02,2008-01-06,5,Australia,runs,122,1,10,463,4,3,2,9,487,0
+20080102_01857_Sydney,Australia,1,Sydney (SCG),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2008-01-02,2008-01-06,5,Australia,runs,122,2,7,401,3,9,3,8,463,0
+20080116_01862_Perth,India,1,Perth (WACA),NA,"Kumble, A (b1970-10-17)","Dhoni, MS (b1981-7-7)",2008-01-16,2008-01-19,5,India,runs,72,1,10,330,9,9,0,19,450,0
+20080116_01862_Perth,India,1,Perth (WACA),NA,"Kumble, A (b1970-10-17)","Dhoni, MS (b1981-7-7)",2008-01-16,2008-01-19,5,India,runs,72,2,10,294,5,8,0,14,360,0
+20080124_01863_Adlaide,India,1,Adelaide,NA,"Kumble, A (b1970-10-17)","Dhoni, MS (b1981-7-7)",2008-01-24,2008-01-28,5,draw,draw,0,1,10,526,3,13,8,21,664,0
+20080124_01863_Adlaide,India,1,Adelaide,NA,"Kumble, A (b1970-10-17)","Dhoni, MS (b1981-7-7)",2008-01-24,2008-01-28,5,draw,draw,0,2,7,269,3,5,9,9,396,0
+20080522_01875_Kingstn,Australia,1,Kingston (Jamaica),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2008-05-22,2008-05-26,5,Australia,runs,95,1,10,431,0,2,2,13,600,0
+20080522_01875_Kingstn,Australia,1,Kingston (Jamaica),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2008-05-22,2008-05-26,5,Australia,runs,95,2,10,167,0,1,2,10,285,0
+20080530_01877_NthSnd,Australia,1,North Sound (Antigua),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2008-05-30,2008-06-03,5,draw,draw,0,1,7,479,5,9,0,7,655,0
+20080530_01877_NthSnd,Australia,1,North Sound (Antigua),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2008-05-30,2008-06-03,5,draw,draw,0,2,6,244,3,9,8,6,285,0
+20080612_01879_Bridgtn,Australia,1,Bridgetown (Barbados),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2008-06-12,2008-06-16,5,Australia,runs,87,1,10,251,21,8,0,7,318,0
+20080612_01879_Bridgtn,Australia,1,Bridgetown (Barbados),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2008-06-12,2008-06-16,5,Australia,runs,87,2,5,439,5,5,5,2,605,0
+20081009_01887_Bangalr,Australia,1,Bangalore,NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2008-10-09,2008-10-13,5,draw,draw,0,1,10,430,1,3,0,11,633,0
+20081009_01887_Bangalr,Australia,1,Bangalore,NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2008-10-09,2008-10-13,5,draw,draw,0,2,6,228,6,4,13,10,326,0
+20081017_01889_Mohali,India,1,Mohali,NA,"Dhoni, MS (b1981-7-7)","Dhoni, MS (b1981-7-7)",2008-10-17,2008-10-21,5,India,runs,320,1,10,469,5,3,4,10,594,0
+20081017_01889_Mohali,India,1,Mohali,NA,"Dhoni, MS (b1981-7-7)","Dhoni, MS (b1981-7-7)",2008-10-17,2008-10-21,5,India,runs,320,2,3,314,5,3,3,4,291,0
+20081029_01891_DelhiFK,India,1,Delhi (Feroz Shah Kotla),NA,"Kumble, A (b1970-10-17)","Dhoni, MS (b1981-7-7)",2008-10-29,2008-11-02,5,draw,draw,0,1,7,613,2,6,6,8,703,0
+20081029_01891_DelhiFK,India,1,Delhi (Feroz Shah Kotla),NA,"Kumble, A (b1970-10-17)","Dhoni, MS (b1981-7-7)",2008-10-29,2008-11-02,5,draw,draw,0,2,5,208,1,1,0,4,345,0
+20081106_01892_NgprV,India,1,Nagpur (VCAS),NA,"Dhoni, MS (b1981-7-7)","Dhoni, MS (b1981-7-7)",2008-11-06,2008-11-10,5,India,runs,172,1,10,441,1,2,4,2,568,0
+20081106_01892_NgprV,India,1,Nagpur (VCAS),NA,"Dhoni, MS (b1981-7-7)","Dhoni, MS (b1981-7-7)",2008-11-06,2008-11-10,5,India,runs,172,2,10,295,6,2,6,3,373,0
+20081120_01894_Gabba,Australia,1,Brisbane ('Gabba),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2008-11-20,2008-11-23,5,Australia,runs,149,1,10,214,1,1,0,2,328,0
+20081120_01894_Gabba,Australia,1,Brisbane ('Gabba),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2008-11-20,2008-11-23,5,Australia,runs,149,2,10,268,0,1,0,10,346,0
+20081128_01896_Adlaide,New Zealand,1,Adelaide,NA,"Vettori, DL (b1979-1-27)","McCullum, BB (b1981-9-27)",2008-11-28,2008-12-01,5,Australia,innings and runs,62,1,10,270,1,11,4,8,400,0
+20081128_01896_Adlaide,New Zealand,1,Adelaide,NA,"Vettori, DL (b1979-1-27)","McCullum, BB (b1981-9-27)",2008-11-28,2008-12-01,5,Australia,innings and runs,62,2,10,203,0,13,7,8,320,0
+20081217_01899_Perth,Australia,1,Perth (WACA),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2008-12-17,2008-12-21,5,South Africa,wickets,6,1,10,375,3,5,0,7,435,0
+20081217_01899_Perth,Australia,1,Perth (WACA),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2008-12-17,2008-12-21,5,South Africa,wickets,6,2,10,319,2,7,4,7,427,0
+20081226_01902_MCG,Australia,1,Melbourne (MCG),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2008-12-26,2008-12-30,5,South Africa,wickets,9,1,10,394,0,7,5,12,500,0
+20081226_01902_MCG,Australia,1,Melbourne (MCG),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2008-12-26,2008-12-30,5,South Africa,wickets,9,2,10,247,0,5,1,3,370,0
+20090103_01904_Sydney,Australia,1,Sydney (SCG),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2009-01-03,2009-01-07,5,Australia,runs,103,1,10,445,3,8,0,7,583,0
+20090103_01904_Sydney,Australia,1,Sydney (SCG),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2009-01-03,2009-01-07,5,Australia,runs,103,2,4,257,0,1,8,9,289,0
+20090226_01910_Wandrer,Australia,1,Johannesburg (Wanderers),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2009-02-26,2009-03-02,5,Australia,runs,162,1,10,466,2,7,6,8,576,0
+20090226_01910_Wandrer,Australia,1,Johannesburg (Wanderers),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2009-02-26,2009-03-02,5,Australia,runs,162,2,10,207,1,3,0,5,244,0
+20090306_01913_Kingsmd,Australia,1,Durban (Kingsmead),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2009-03-06,2009-03-10,5,Australia,runs,175,1,10,352,2,8,6,4,483,0
+20090306_01913_Kingsmd,Australia,1,Durban (Kingsmead),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2009-03-06,2009-03-10,5,Australia,runs,175,2,5,331,0,4,12,2,385,0
+20090319_01916_CapeTn,Australia,1,Cape Town,NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2009-03-19,2009-03-22,5,South Africa,innings and runs,20,1,10,209,1,2,0,6,327,0
+20090319_01916_CapeTn,Australia,1,Cape Town,NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2009-03-19,2009-03-22,5,South Africa,innings and runs,20,2,10,422,2,5,8,2,532,0
+20090708_01922_Cardiff,England,1,Cardiff,NA,"Strauss, AJ (b1977-3-2)","Prior, MJ (b1982-2-26)",2009-07-08,2009-07-12,5,draw,draw,0,1,10,435,2,12,13,11,460,0
+20090708_01922_Cardiff,England,1,Cardiff,NA,"Strauss, AJ (b1977-3-2)","Prior, MJ (b1982-2-26)",2009-07-08,2009-07-12,5,draw,draw,0,2,9,252,4,11,9,9,434,0
+20090716_01925_Lord's,England,1,Lord's,NA,"Strauss, AJ (b1977-3-2)","Prior, MJ (b1982-2-26)",2009-07-16,2009-07-20,5,England,runs,115,1,10,425,0,8,15,2,425,0
+20090716_01925_Lord's,England,1,Lord's,NA,"Strauss, AJ (b1977-3-2)","Prior, MJ (b1982-2-26)",2009-07-16,2009-07-20,5,England,runs,115,2,6,311,1,5,16,9,317,0
+20090730_01928_Edgbast,Australia,1,Birmingham (Edgbaston),NA,"Ponting, RT (b1974-12-19)","Manou, GA (b1979-4-23)",2009-07-30,2009-08-03,5,draw,draw,0,1,10,263,2,1,5,7,319,0
+20090730_01928_Edgbast,Australia,1,Birmingham (Edgbaston),NA,"Ponting, RT (b1974-12-19)","Manou, GA (b1979-4-23)",2009-07-30,2009-08-03,5,draw,draw,0,2,5,375,2,3,4,6,466,0
+20090807_01929_Headgly,England,1,Leeds (Headingley),NA,"Strauss, AJ (b1977-3-2)","Prior, MJ (b1982-2-26)",2009-08-07,2009-08-09,5,Australia,innings and runs,80,1,10,102,1,3,5,8,163,0
+20090807_01929_Headgly,England,1,Leeds (Headingley),NA,"Strauss, AJ (b1977-3-2)","Prior, MJ (b1982-2-26)",2009-08-07,2009-08-09,5,Australia,innings and runs,80,2,10,263,5,11,5,5,275,0
+20090820_01931_TheOval,England,1,The Oval,NA,"Strauss, AJ (b1977-3-2)","Prior, MJ (b1982-2-26)",2009-08-20,2009-08-23,5,England,runs,197,1,10,332,3,18,12,5,414,0
+20090820_01931_TheOval,England,1,The Oval,NA,"Strauss, AJ (b1977-3-2)","Prior, MJ (b1982-2-26)",2009-08-20,2009-08-23,5,England,runs,197,2,9,373,7,9,1,15,408,0
+20091126_01936_Gabba,Australia,1,Brisbane ('Gabba),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2009-11-26,2009-11-28,5,Australia,innings and runs,65,1,8,480,1,20,2,9,592,0
+20091126_01936_Gabba,Australia,1,Brisbane ('Gabba),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2009-11-26,2009-11-28,5,Australia,innings and runs,65,2,0,0,0,0,0,0,0,0
+20091204_01939_Adlaide,West Indies,1,Adelaide,NA,"Gayle, CH (b1979-9-21)","Ramdin, D (b1985-3-13)",2009-12-04,2009-12-08,5,draw,draw,0,1,10,451,5,5,5,14,542,0
+20091204_01939_Adlaide,West Indies,1,Adelaide,NA,"Gayle, CH (b1979-9-21)","Ramdin, D (b1985-3-13)",2009-12-04,2009-12-08,5,draw,draw,0,2,10,317,1,6,8,3,441,0
+20091216_01941_Perth,Australia,1,Perth (WACA),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2009-12-16,2009-12-20,5,Australia,runs,35,1,7,520,1,16,4,2,546,0
+20091216_01941_Perth,Australia,1,Perth (WACA),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2009-12-16,2009-12-20,5,Australia,runs,35,2,10,150,1,2,9,2,230,0
+20091226_01943_MCG,Australia,1,Melbourne (MCG),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2009-12-26,2009-12-30,5,Australia,runs,170,1,5,454,0,7,2,12,536,0
+20091226_01943_MCG,Australia,1,Melbourne (MCG),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2009-12-26,2009-12-30,5,Australia,runs,170,2,8,225,3,7,0,2,335,0
+20100103_01945_Sydney,Australia,1,Sydney (SCG),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2010-01-03,2010-01-06,5,Australia,runs,36,1,10,127,1,1,1,2,224,0
+20100103_01945_Sydney,Australia,1,Sydney (SCG),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2010-01-03,2010-01-06,5,Australia,runs,36,2,10,381,3,5,6,5,570,0
+20100114_01947_Bellrve,Australia,1,Hobart (Bellerive),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2010-01-14,2010-01-18,5,Australia,runs,231,1,8,519,5,7,1,3,626,0
+20100114_01947_Bellrve,Australia,1,Hobart (Bellerive),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2010-01-14,2010-01-18,5,Australia,runs,231,2,5,219,0,0,4,4,212,0
+20100319_01955_Wellton,Australia,1,Wellington,NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2010-03-19,2010-03-23,5,Australia,wickets,10,1,5,459,2,5,2,15,562,0
+20100319_01955_Wellton,Australia,1,Wellington,NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2010-03-19,2010-03-23,5,Australia,wickets,10,2,0,106,0,2,0,0,91,0
+20100327_01957_Hamiltn,Australia,1,Hamilton,NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2010-03-27,2010-03-31,5,Australia,runs,176,1,10,231,0,2,4,6,306,0
+20100327_01957_Hamiltn,Australia,1,Hamilton,NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2010-03-27,2010-03-31,5,Australia,runs,176,2,8,511,0,4,2,1,596,0
+20100713_01963_Lord's,Australia,1,Lord's,NA,"Ponting, RT (b1974-12-19)","Paine, TD (b1984-12-8)",2010-07-13,2010-07-16,5,Australia,runs,150,1,10,253,2,10,10,2,340,0
+20100713_01963_Lord's,Australia,1,Lord's,NA,"Ponting, RT (b1974-12-19)","Paine, TD (b1984-12-8)",2010-07-13,2010-07-16,5,Australia,runs,150,2,10,334,2,9,6,5,415,0
+20100721_01965_Headgly,Australia,1,Leeds (Headingley),NA,"Ponting, RT (b1974-12-19)","Paine, TD (b1984-12-8)",2010-07-21,2010-07-24,5,Pakistan,wickets,3,1,10,88,0,2,0,6,170,0
+20100721_01965_Headgly,Australia,1,Leeds (Headingley),NA,"Ponting, RT (b1974-12-19)","Paine, TD (b1984-12-8)",2010-07-21,2010-07-24,5,Pakistan,wickets,3,2,10,349,2,8,4,10,446,0
+20101001_01972_Mohali,Australia,1,Mohali,NA,"Ponting, RT (b1974-12-19)","Paine, TD (b1984-12-8)",2010-10-01,2010-10-05,5,India,wickets,1,1,10,428,0,13,4,9,646,0
+20101001_01972_Mohali,Australia,1,Mohali,NA,"Ponting, RT (b1974-12-19)","Paine, TD (b1984-12-8)",2010-10-01,2010-10-05,5,India,wickets,1,2,10,192,0,5,12,4,292,0
+20101009_01973_Bangalr,Australia,1,Bangalore,NA,"Ponting, RT (b1974-12-19)","Paine, TD (b1984-12-8)",2010-10-09,2010-10-13,5,India,wickets,7,1,10,478,1,9,9,12,604,0
+20101009_01973_Bangalr,Australia,1,Bangalore,NA,"Ponting, RT (b1974-12-19)","Paine, TD (b1984-12-8)",2010-10-09,2010-10-13,5,India,wickets,7,2,10,223,3,5,1,5,326,0
+20101125_01981_Gabba,England,1,Brisbane ('Gabba),NA,"Strauss, AJ (b1977-3-2)","Prior, MJ (b1982-2-26)",2010-11-25,2010-11-29,5,draw,draw,0,1,10,260,7,5,0,8,360,0
+20101125_01981_Gabba,England,1,Brisbane ('Gabba),NA,"Strauss, AJ (b1977-3-2)","Prior, MJ (b1982-2-26)",2010-11-25,2010-11-29,5,draw,draw,0,2,1,517,10,6,17,4,630,0
+20101203_01983_Adlaide,Australia,1,Adelaide,NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2010-12-03,2010-12-07,5,England,innings and runs,71,1,10,245,1,1,0,6,377,0
+20101203_01983_Adlaide,Australia,1,Adelaide,NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2010-12-03,2010-12-07,5,England,innings and runs,71,2,10,304,5,0,5,1,392,0
+20101216_01984_Perth,Australia,1,Perth (WACA),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2010-12-16,2010-12-19,5,Australia,runs,267,1,10,268,0,0,0,3,322,0
+20101216_01984_Perth,Australia,1,Perth (WACA),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2010-12-16,2010-12-19,5,Australia,runs,267,2,10,309,4,2,0,6,390,0
+20101226_01986_MCG,Australia,1,Melbourne (MCG),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2010-12-26,2010-12-29,5,England,innings and runs,157,1,10,98,0,5,0,2,227,0
+20101226_01986_MCG,Australia,1,Melbourne (MCG),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2010-12-26,2010-12-29,5,England,innings and runs,157,2,9,258,2,0,1,6,342,0
+20110831_02005_Galle,Australia,1,Galle,NA,"Clarke, MJ (b1981-4-2)","Haddin, BJ (b1977-10-23)",2011-08-31,2011-09-03,5,Australia,runs,125,1,10,273,0,0,3,2,347,0
+20110831_02005_Galle,Australia,1,Galle,NA,"Clarke, MJ (b1981-4-2)","Haddin, BJ (b1977-10-23)",2011-08-31,2011-09-03,5,Australia,runs,125,2,10,210,0,2,4,4,240,0
+20110916_02008_ColSSC,Australia,1,Colombo (SSC),NA,"Clarke, MJ (b1981-4-2)","Haddin, BJ (b1977-10-23)",2011-09-16,2011-09-20,5,draw,draw,0,1,10,316,1,3,0,4,455,0
+20110916_02008_ColSSC,Australia,1,Colombo (SSC),NA,"Clarke, MJ (b1981-4-2)","Haddin, BJ (b1977-10-23)",2011-09-16,2011-09-20,5,draw,draw,0,2,10,488,6,4,5,11,604,0
+20111109_02016_CapeTn,Australia,1,Cape Town,NA,"Clarke, MJ (b1981-4-2)","Haddin, BJ (b1977-10-23)",2011-11-09,2011-11-11,5,South Africa,wickets,8,1,10,284,1,4,5,7,349,0
+20111109_02016_CapeTn,Australia,1,Cape Town,NA,"Clarke, MJ (b1981-4-2)","Haddin, BJ (b1977-10-23)",2011-11-09,2011-11-11,5,South Africa,wickets,8,2,10,47,0,0,0,0,95,0
+20111117_02018_Wandrer,South Africa,1,Johannesburg (Wanderers),NA,"Smith, GC (b1981-2-1)","Boucher, MV (b1976-12-3)",2011-11-17,2011-11-21,5,Australia,wickets,2,1,10,266,2,1,9,2,313,0
+20111117_02018_Wandrer,South Africa,1,Johannesburg (Wanderers),NA,"Smith, GC (b1981-2-1)","Boucher, MV (b1976-12-3)",2011-11-17,2011-11-21,5,Australia,wickets,2,2,10,339,7,2,5,2,480,0
+20111201_02020_Gabba,New Zealand,1,Brisbane ('Gabba),NA,"Taylor, LRPL (b1984-3-8)","Young, RA (b1979-9-15)",2011-12-01,2011-12-04,5,Australia,wickets,9,1,10,295,3,3,9,1,365,0
+20111201_02020_Gabba,New Zealand,1,Brisbane ('Gabba),NA,"Taylor, LRPL (b1984-3-8)","Young, RA (b1979-9-15)",2011-12-01,2011-12-04,5,Australia,wickets,9,2,10,150,2,4,0,15,223,0
+20111209_02021_Bellrve,New Zealand,1,Hobart (Bellerive),NA,"Taylor, LRPL (b1984-3-8)","Young, RA (b1979-9-15)",2011-12-09,2011-12-12,5,New Zealand,runs,7,1,10,150,1,5,2,12,211,0
+20111209_02021_Bellrve,New Zealand,1,Hobart (Bellerive),NA,"Taylor, LRPL (b1984-3-8)","Young, RA (b1979-9-15)",2011-12-09,2011-12-12,5,New Zealand,runs,7,2,10,226,5,2,4,11,354,0
+20111226_02025_MCG,Australia,1,Melbourne (MCG),NA,"Clarke, MJ (b1981-4-2)","Haddin, BJ (b1977-10-23)",2011-12-26,2011-12-29,5,Australia,runs,122,1,10,333,2,1,0,21,488,0
+20111226_02025_MCG,Australia,1,Melbourne (MCG),NA,"Clarke, MJ (b1981-4-2)","Haddin, BJ (b1977-10-23)",2011-12-26,2011-12-29,5,Australia,runs,122,2,10,240,1,5,5,2,335,0
+20120103_02027_Sydney,India,1,Sydney (SCG),NA,"Dhoni, MS (b1981-7-7)","Dhoni, MS (b1981-7-7)",2012-01-03,2012-01-06,5,Australia,innings and runs,68,1,10,191,2,2,3,6,260,0
+20120103_02027_Sydney,India,1,Sydney (SCG),NA,"Dhoni, MS (b1981-7-7)","Dhoni, MS (b1981-7-7)",2012-01-03,2012-01-06,5,Australia,innings and runs,68,2,10,400,2,8,6,3,469,0
+20120113_02029_Perth,India,1,Perth (WACA),NA,"Dhoni, MS (b1981-7-7)","Dhoni, MS (b1981-7-7)",2012-01-13,2012-01-15,5,Australia,innings and runs,37,1,10,161,1,0,2,2,268,0
+20120113_02029_Perth,India,1,Perth (WACA),NA,"Dhoni, MS (b1981-7-7)","Dhoni, MS (b1981-7-7)",2012-01-13,2012-01-15,5,Australia,innings and runs,37,2,10,171,3,0,1,5,278,0
+20120124_02031_Adlaide,Australia,1,Adelaide,NA,"Clarke, MJ (b1981-4-2)","Haddin, BJ (b1977-10-23)",2012-01-24,2012-01-28,5,Australia,runs,298,1,7,604,8,0,3,17,636,0
+20120124_02031_Adlaide,Australia,1,Adelaide,NA,"Clarke, MJ (b1981-4-2)","Haddin, BJ (b1977-10-23)",2012-01-24,2012-01-28,5,Australia,runs,298,2,5,167,0,0,0,6,191,0
+20120407_02040_Bridgtn,West Indies,1,Bridgetown (Barbados),NA,"Sammy, DJG (b1983-12-20)","Baugh, CS (b1982-6-23)",2012-04-07,2012-04-11,5,Australia,wickets,3,1,9,449,4,2,12,9,670,0
+20120407_02040_Bridgtn,West Indies,1,Bridgetown (Barbados),NA,"Sammy, DJG (b1983-12-20)","Baugh, CS (b1982-6-23)",2012-04-07,2012-04-11,5,Australia,wickets,3,2,10,148,0,1,4,3,325,0
+20120415_02041_PortSp,Australia,1,Port-of-Spain (Trinidad),NA,"Clarke, MJ (b1981-4-2)","Wade, MS (b1987-12-26)",2012-04-15,2012-04-19,5,draw,draw,0,1,10,311,1,5,5,5,535,0
+20120415_02041_PortSp,Australia,1,Port-of-Spain (Trinidad),NA,"Clarke, MJ (b1981-4-2)","Wade, MS (b1987-12-26)",2012-04-15,2012-04-19,5,draw,draw,0,2,8,160,1,3,4,1,270,0
+20120423_02042_Roseau,Australia,1,Roseau,NA,"Clarke, MJ (b1981-4-2)","Wade, MS (b1987-12-26)",2012-04-23,2012-04-27,5,Australia,runs,75,1,10,328,3,2,4,6,490,0
+20120423_02042_Roseau,Australia,1,Roseau,NA,"Clarke, MJ (b1981-4-2)","Wade, MS (b1987-12-26)",2012-04-23,2012-04-27,5,Australia,runs,75,2,10,259,1,4,8,9,360,0
+20121109_02056_Gabba,South Africa,1,Brisbane ('Gabba),NA,"Smith, GC (b1981-2-1)","de Villiers, AB (b1984-2-17)",2012-11-09,2012-11-13,5,draw,draw,0,1,9,450,3,6,1,1,636,0
+20121109_02056_Gabba,South Africa,1,Brisbane ('Gabba),NA,"Smith, GC (b1981-2-1)","de Villiers, AB (b1984-2-17)",2012-11-09,2012-11-13,5,draw,draw,0,2,5,166,4,4,2,0,294,0
+20121122_02061_Adlaide,Australia,1,Adelaide,NA,"Clarke, MJ (b1981-4-2)","Wade, MS (b1987-12-26)",2012-11-22,2012-11-26,5,draw,draw,0,1,10,550,1,11,0,11,481,0
+20121122_02061_Adlaide,Australia,1,Adelaide,NA,"Clarke, MJ (b1981-4-2)","Wade, MS (b1987-12-26)",2012-11-22,2012-11-26,5,draw,draw,0,2,8,267,0,9,4,10,325,0
+20121130_02064_Perth,South Africa,1,Perth (WACA),NA,"Smith, GC (b1981-2-1)","de Villiers, AB (b1984-2-17)",2012-11-30,2012-12-03,5,South Africa,runs,309,1,10,225,2,0,0,2,330,0
+20121130_02064_Perth,South Africa,1,Perth (WACA),NA,"Smith, GC (b1981-2-1)","de Villiers, AB (b1984-2-17)",2012-11-30,2012-12-03,5,South Africa,runs,309,2,10,569,3,0,4,4,495,0
+19951208_01317_Perth,Sri Lanka,1,Perth (WACA),NA,"Ranatunga, A (b1963-12-1)","Kaluwitharana, RS (b1969-11-24)",1995-12-08,1995-12-11,5,Australia,innings and runs,36,1,10,251,0,3,4,9,365,0
+19951208_01317_Perth,Sri Lanka,1,Perth (WACA),NA,"Ranatunga, A (b1963-12-1)","Kaluwitharana, RS (b1969-11-24)",1995-12-08,1995-12-11,5,Australia,innings and runs,36,2,10,330,0,10,0,4,397,0
+19951226_01319_MCG,Australia,1,Melbourne (MCG),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1995-12-26,1995-12-30,5,Australia,wickets,10,1,6,500,2,3,0,8,666,0
+19951226_01319_MCG,Australia,1,Melbourne (MCG),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1995-12-26,1995-12-30,5,Australia,wickets,10,2,0,41,0,2,0,1,31,0
+19960125_01324_Adlaide,Australia,1,Adelaide,NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1996-01-25,1996-01-29,5,Australia,runs,148,1,9,502,1,2,5,9,657,0
+19960125_01324_Adlaide,Australia,1,Adelaide,NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1996-01-25,1996-01-29,5,Australia,runs,148,2,6,215,0,3,1,1,304,0
+19961010_01335_DelhiFK,Australia,1,Delhi (Feroz Shah Kotla),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1996-10-10,1996-10-13,5,India,wickets,7,1,10,182,0,1,4,3,269,0
+19961010_01335_DelhiFK,Australia,1,Delhi (Feroz Shah Kotla),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1996-10-10,1996-10-13,5,India,wickets,7,2,10,234,1,7,9,6,393,0
+19961122_01340_Gabba,Australia,1,Brisbane ('Gabba),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1996-11-22,1996-11-26,5,Australia,runs,123,1,10,479,3,22,0,8,649,0
+19961122_01340_Gabba,Australia,1,Brisbane ('Gabba),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1996-11-22,1996-11-26,5,Australia,runs,123,2,6,217,0,14,1,3,285,0
+19961129_01343_Sydney,Australia,1,Sydney (SCG),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1996-11-29,1996-12-03,5,Australia,runs,124,1,10,331,1,18,0,10,515,0
+19961129_01343_Sydney,Australia,1,Sydney (SCG),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1996-11-29,1996-12-03,5,Australia,runs,124,2,4,312,3,9,4,10,452,0
+19970724_01373_Headgly,England,1,Leeds (Headingley),NA,"Atherton, MA (b1968-3-23)","Stewart, AJ (b1963-4-8)",1997-07-24,1997-07-28,5,Australia,innings and runs,61,1,10,172,1,12,4,4,269,0
+19970724_01373_Headgly,England,1,Leeds (Headingley),NA,"Atherton, MA (b1968-3-23)","Stewart, AJ (b1963-4-8)",1997-07-24,1997-07-28,5,Australia,innings and runs,61,2,10,268,0,13,6,4,382,0
+19970807_01375_TrentBr,Australia,1,Nottingham (Trent Bridge),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1997-08-07,1997-08-10,5,Australia,runs,264,1,10,427,1,4,4,10,526,0
+19970807_01375_TrentBr,Australia,1,Nottingham (Trent Bridge),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1997-08-07,1997-08-10,5,Australia,runs,264,2,10,336,0,6,1,11,419,0
+19970821_01377_TheOval,England,1,The Oval,NA,"Atherton, MA (b1968-3-23)","Stewart, AJ (b1963-4-8)",1997-08-21,1997-08-23,5,England,runs,19,1,10,180,0,10,2,6,240,0
+19970821_01377_TheOval,England,1,The Oval,NA,"Atherton, MA (b1968-3-23)","Stewart, AJ (b1963-4-8)",1997-08-21,1997-08-23,5,England,runs,19,2,10,163,0,4,6,10,266,0
+19971107_01383_Gabba,Australia,1,Brisbane ('Gabba),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1997-11-07,1997-11-11,5,Australia,runs,186,1,10,373,1,6,4,9,480,0
+19971107_01383_Gabba,Australia,1,Brisbane ('Gabba),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1997-11-07,1997-11-11,5,Australia,runs,186,2,6,294,0,5,1,4,401,0
+19971120_01386_Perth,New Zealand,1,Perth (WACA),NA,"Fleming, SP (b1973-4-1)","Parore, AC (b1971-1-23)",1997-11-20,1997-11-23,5,Australia,innings and runs,70,1,10,217,0,3,0,3,313,0
+19971120_01386_Perth,New Zealand,1,Perth (WACA),NA,"Fleming, SP (b1973-4-1)","Parore, AC (b1971-1-23)",1997-11-20,1997-11-23,5,Australia,innings and runs,70,2,10,174,0,5,0,2,270,0
+19971127_01388_Bellrve,Australia,1,Hobart (Bellerive),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1997-11-27,1997-12-01,5,draw,draw,0,1,10,400,1,1,0,6,554,0
+19971127_01388_Bellrve,Australia,1,Hobart (Bellerive),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1997-11-27,1997-12-01,5,draw,draw,0,2,2,138,0,0,4,1,143,0
+19971226_01392_MCG,Australia,1,Melbourne (MCG),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1997-12-26,1997-12-30,5,draw,draw,0,1,10,309,0,5,1,6,500,0
+19971226_01392_MCG,Australia,1,Melbourne (MCG),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1997-12-26,1997-12-30,5,draw,draw,0,2,10,257,0,4,4,3,403,0
+19980102_01393_Sydney,South Africa,1,Sydney (SCG),NA,"Cronje, WJ (b1969-9-25)","Richardson, DJ (b1959-9-16)",1998-01-02,1998-01-05,5,Australia,innings and runs,21,1,10,287,1,7,4,4,477,0
+19980102_01393_Sydney,South Africa,1,Sydney (SCG),NA,"Cronje, WJ (b1969-9-25)","Richardson, DJ (b1959-9-16)",1998-01-02,1998-01-05,5,Australia,innings and runs,21,2,10,113,0,1,2,1,199,0
+19980130_01397_Adlaide,South Africa,1,Adelaide,NA,"Cronje, WJ (b1969-9-25)","Richardson, DJ (b1959-9-16)",1998-01-30,1998-02-03,5,draw,draw,0,1,10,517,2,1,0,8,628,0
+19980130_01397_Adlaide,South Africa,1,Adelaide,NA,"Cronje, WJ (b1969-9-25)","Richardson, DJ (b1959-9-16)",1998-01-30,1998-02-03,5,draw,draw,0,2,6,193,0,1,0,0,235,0
+19980306_01405_Chepauk,India,1,Chennai (Chepauk),NA,"Azharuddin, M (b1963-2-8)","Mongia, NR (b1969-12-19)",1998-03-06,1998-03-10,5,India,runs,179,1,10,257,0,4,8,6,428,0
+19980306_01405_Chepauk,India,1,Chennai (Chepauk),NA,"Azharuddin, M (b1963-2-8)","Mongia, NR (b1969-12-19)",1998-03-06,1998-03-10,5,India,runs,179,2,4,418,0,7,18,6,458,0
+19980318_01409_Calcutt,Australia,1,Kolkata (Calcutta),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1998-03-18,1998-03-21,5,India,innings and runs,219,1,10,233,0,12,0,2,364,0
+19980318_01409_Calcutt,Australia,1,Kolkata (Calcutta),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1998-03-18,1998-03-21,5,India,innings and runs,219,2,10,181,0,3,1,3,364,0
+19980325_01413_Bangalr,India,1,Bangalore,NA,"Azharuddin, M (b1963-2-8)","Mongia, NR (b1969-12-19)",1998-03-25,1998-03-28,5,Australia,wickets,8,1,10,424,0,9,6,6,508,0
+19980325_01413_Bangalr,India,1,Bangalore,NA,"Azharuddin, M (b1963-2-8)","Mongia, NR (b1969-12-19)",1998-03-25,1998-03-28,5,Australia,wickets,8,2,10,169,0,6,5,5,268,0
+19981015_01426_PeshwrA,Australia,1,Peshawar (Arbab Niaz Ground),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1998-10-15,1998-10-19,5,draw,draw,0,1,4,599,3,16,0,9,720,0
+19981015_01426_PeshwrA,Australia,1,Peshawar (Arbab Niaz Ground),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1998-10-15,1998-10-19,5,draw,draw,0,2,5,289,0,9,0,4,364,0
+19981120_01428_Gabba,Australia,1,Brisbane ('Gabba),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1998-11-20,1998-11-24,5,draw,draw,0,1,10,485,1,6,0,14,657,0
+19981120_01428_Gabba,Australia,1,Brisbane ('Gabba),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1998-11-20,1998-11-24,5,draw,draw,0,2,3,237,0,5,1,1,267,0
+19981128_01431_Perth,England,1,Perth (WACA),NA,"Stewart, AJ (b1963-4-8)","Stewart, AJ (b1963-4-8)",1998-11-28,1998-11-30,5,Australia,wickets,7,1,10,112,2,2,0,2,180,0
+19981128_01431_Perth,England,1,Perth (WACA),NA,"Stewart, AJ (b1963-4-8)","Stewart, AJ (b1963-4-8)",1998-11-28,1998-11-30,5,Australia,wickets,7,2,10,191,0,8,0,0,310,0
+19981211_01434_Adlaide,Australia,1,Adelaide,NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1998-12-11,1998-12-15,5,Australia,runs,205,1,10,391,0,13,0,6,545,0
+19981211_01434_Adlaide,Australia,1,Adelaide,NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1998-12-11,1998-12-15,5,Australia,runs,205,2,5,278,1,6,0,12,403,0
+19990326_01453_Bridgtn,Australia,1,Bridgetown (Barbados),NA,"Waugh, SR (b1965-6-2)","Healy, IA (b1964-4-30)",1999-03-26,1999-03-30,5,West Indies,wickets,1,1,10,490,0,34,4,10,647,0
+19990326_01453_Bridgtn,Australia,1,Bridgetown (Barbados),NA,"Waugh, SR (b1965-6-2)","Healy, IA (b1964-4-30)",1999-03-26,1999-03-30,5,West Indies,wickets,1,2,10,146,1,19,0,5,251,0
+19990403_01454_St.John,Australia,1,St. John's (Antigua),NA,"Waugh, SR (b1965-6-2)","Healy, IA (b1964-4-30)",1999-04-03,1999-04-07,5,Australia,runs,176,1,10,303,0,19,0,5,502,0
+19990403_01454_St.John,Australia,1,St. John's (Antigua),NA,"Waugh, SR (b1965-6-2)","Healy, IA (b1964-4-30)",1999-04-03,1999-04-07,5,Australia,runs,176,2,10,306,3,11,2,1,501,0
+19990909_01459_Kandy,Australia,1,Kandy,NA,"Waugh, SR (b1965-6-2)","Healy, IA (b1964-4-30)",1999-09-09,1999-09-11,5,Sri Lanka,wickets,6,1,10,188,0,4,0,0,264,0
+19990909_01459_Kandy,Australia,1,Kandy,NA,"Waugh, SR (b1965-6-2)","Healy, IA (b1964-4-30)",1999-09-09,1999-09-11,5,Sri Lanka,wickets,6,2,8,140,1,4,6,5,233,0
+19990922_01460_Galle,Sri Lanka,1,Galle,NA,"Jayasuriya, ST (b1969-6-30)","Kaluwitharana, RS (b1969-11-24)",1999-09-22,1999-09-26,5,draw,draw,0,1,10,296,0,8,4,8,412,0
+19990922_01460_Galle,Sri Lanka,1,Galle,NA,"Jayasuriya, ST (b1969-6-30)","Kaluwitharana, RS (b1969-11-24)",1999-09-22,1999-09-26,5,draw,draw,0,2,0,55,0,3,0,3,71,0
+19990930_01461_ColSSC,Australia,1,Colombo (SSC),NA,"Waugh, SR (b1965-6-2)","Healy, IA (b1964-4-30)",1999-09-30,1999-10-04,5,draw,draw,0,1,10,342,0,10,0,0,501,0
+19990930_01461_ColSSC,Australia,1,Colombo (SSC),NA,"Waugh, SR (b1965-6-2)","Healy, IA (b1964-4-30)",1999-09-30,1999-10-04,5,draw,draw,0,2,0,0,0,0,0,0,0,0
+19991014_01463_Harare,Zimbabwe,1,Harare,NA,"Campbell, ADR (b1972-9-23)","Flower, A (b1968-4-28)",1999-10-14,1999-10-17,5,Australia,wickets,10,1,10,194,0,10,2,4,341,0
+19991014_01463_Harare,Zimbabwe,1,Harare,NA,"Campbell, ADR (b1972-9-23)","Flower, A (b1968-4-28)",1999-10-14,1999-10-17,5,Australia,wickets,10,2,10,232,1,6,9,2,456,0
+19991105_01467_Gabba,Pakistan,1,Brisbane ('Gabba),NA,Wasim Akram (b1966-6-3),Moin Khan (b1971-9-23),1999-11-05,1999-11-09,5,Australia,wickets,10,1,10,367,0,5,4,2,464,0
+19991105_01467_Gabba,Pakistan,1,Brisbane ('Gabba),NA,Wasim Akram (b1966-6-3),Moin Khan (b1971-9-23),1999-11-05,1999-11-09,5,Australia,wickets,10,2,10,281,0,5,6,6,315,0
+19991118_01469_Bellrve,Pakistan,1,Hobart (Bellerive),NA,Wasim Akram (b1966-6-3),Moin Khan (b1971-9-23),1999-11-18,1999-11-22,5,Australia,wickets,4,1,10,222,3,0,10,6,283,0
+19991118_01469_Bellrve,Pakistan,1,Hobart (Bellerive),NA,Wasim Akram (b1966-6-3),Moin Khan (b1971-9-23),1999-11-18,1999-11-22,5,Australia,wickets,4,2,10,392,1,7,0,6,519,0
+19991126_01472_Perth,Pakistan,1,Perth (WACA),NA,Wasim Akram (b1966-6-3),Moin Khan (b1971-9-23),1999-11-26,1999-11-28,5,Australia,innings and runs,20,1,10,155,0,8,0,4,224,0
+19991126_01472_Perth,Pakistan,1,Perth (WACA),NA,Wasim Akram (b1966-6-3),Moin Khan (b1971-9-23),1999-11-26,1999-11-28,5,Australia,innings and runs,20,2,10,276,0,9,0,6,295,0
+19991210_01476_Adlaide,Australia,1,Adelaide,NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",1999-12-10,1999-12-14,5,Australia,runs,285,1,10,441,0,6,1,5,512,0
+19991210_01476_Adlaide,Australia,1,Adelaide,NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",1999-12-10,1999-12-14,5,Australia,runs,285,2,8,239,2,2,3,8,386,0
+19991226_01479_MCG,Australia,1,Melbourne (MCG),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",1999-12-26,1999-12-30,5,Australia,runs,180,1,10,405,1,14,1,9,526,0
+19991226_01479_MCG,Australia,1,Melbourne (MCG),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",1999-12-26,1999-12-30,5,Australia,runs,180,2,5,208,1,3,0,2,263,0
+20000102_01481_Sydney,Australia,2,Sydney (SCG),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2000-01-02,2000-01-04,5,Australia,innings and runs,141,1,5,552,0,11,2,21,608,0
+20000102_01481_Sydney,Australia,2,Sydney (SCG),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2000-01-02,2000-01-04,5,Australia,innings and runs,141,2,0,0,0,0,0,0,0,0
+20001123_01516_Gabba,Australia,2,Brisbane ('Gabba),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2000-11-23,2000-11-25,5,Australia,innings and runs,126,1,10,332,0,4,0,5,498,0
+20001123_01516_Gabba,Australia,2,Brisbane ('Gabba),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2000-11-23,2000-11-25,5,Australia,innings and runs,126,2,0,0,0,0,0,0,0,0
+20001201_01520_Perth,Australia,2,Perth (WACA),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2000-12-01,2000-12-03,5,Australia,innings and runs,27,1,8,396,2,7,2,10,499,0
+20001201_01520_Perth,Australia,2,Perth (WACA),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2000-12-01,2000-12-03,5,Australia,innings and runs,27,2,0,0,0,0,0,0,0,0
+20001215_01523_Adlaide,Australia,2,Adelaide,NA,"Gilchrist, AC (b1971-11-14)","Gilchrist, AC (b1971-11-14)",2000-12-15,2000-12-19,5,Australia,wickets,5,1,10,403,5,11,5,13,537,0
+20001215_01523_Adlaide,Australia,2,Adelaide,NA,"Gilchrist, AC (b1971-11-14)","Gilchrist, AC (b1971-11-14)",2000-12-15,2000-12-19,5,Australia,wickets,5,2,5,130,0,3,3,1,195,0
+20001226_01525_MCG,West Indies,2,Melbourne (MCG),NA,"Adams, JC (b1968-1-9)","Jacobs, RD (b1967-11-26)",2000-12-26,2000-12-29,5,Australia,runs,352,1,10,165,0,11,0,5,249,0
+20001226_01525_MCG,West Indies,2,Melbourne (MCG),NA,"Adams, JC (b1968-1-9)","Jacobs, RD (b1967-11-26)",2000-12-26,2000-12-29,5,Australia,runs,352,2,10,109,0,9,0,1,205,0
+20010102_01527_Sydney,Australia,2,Sydney (SCG),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2001-01-02,2001-01-06,5,Australia,wickets,6,1,10,452,0,11,1,5,520,0
+20010102_01527_Sydney,Australia,2,Sydney (SCG),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2001-01-02,2001-01-06,5,Australia,wickets,6,2,4,174,1,7,3,7,189,0
+20010227_01531_Wankhed,Australia,2,Mumbai (Wankhede),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2001-02-27,2001-03-01,5,Australia,wickets,10,1,10,349,0,3,9,7,333,0
+20010227_01531_Wankhed,Australia,2,Mumbai (Wankhede),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2001-02-27,2001-03-01,5,Australia,wickets,10,2,0,47,0,0,0,0,25,0
+20010311_01535_Calcutt,India,2,Kolkata (Calcutta),NA,"Ganguly, SC (b1972-7-8)","Mongia, NR (b1969-12-19)",2001-03-11,2001-03-15,5,India,runs,171,1,10,171,0,12,0,2,257,0
+20010311_01535_Calcutt,India,2,Kolkata (Calcutta),NA,"Ganguly, SC (b1972-7-8)","Mongia, NR (b1969-12-19)",2001-03-11,2001-03-15,5,India,runs,171,2,7,657,2,14,6,12,737,0
+20010318_01539_Chepauk,India,2,Chennai (Chepauk),NA,"Ganguly, SC (b1972-7-8)","Dighe, SS (b1968-10-8)",2001-03-18,2001-03-22,5,India,wickets,2,1,10,501,1,5,19,2,697,0
+20010318_01539_Chepauk,India,2,Chennai (Chepauk),NA,"Ganguly, SC (b1972-7-8)","Dighe, SS (b1968-10-8)",2001-03-18,2001-03-22,5,India,wickets,2,2,8,155,0,2,0,3,219,0
+20010705_01550_Edgbast,Australia,2,Birmingham (Edgbaston),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2001-07-05,2001-07-08,5,Australia,innings and runs,118,1,10,576,0,23,3,7,545,0
+20010705_01550_Edgbast,Australia,2,Birmingham (Edgbaston),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2001-07-05,2001-07-08,5,Australia,innings and runs,118,2,0,0,0,0,0,0,0,0
+20010719_01552_Lord's,Australia,2,Lord's,NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2001-07-19,2001-07-22,5,Australia,wickets,8,1,10,401,1,23,0,9,450,0
+20010719_01552_Lord's,Australia,2,Lord's,NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2001-07-19,2001-07-22,5,Australia,wickets,8,2,2,14,0,0,0,0,17,0
+20010802_01554_TrentBr,Australia,2,Nottingham (Trent Bridge),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2001-08-02,2001-08-04,5,Australia,wickets,7,1,10,190,1,5,0,3,259,0
+20010802_01554_TrentBr,Australia,2,Nottingham (Trent Bridge),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2001-08-02,2001-08-04,5,Australia,wickets,7,2,3,158,0,7,0,4,192,0
+20010816_01556_Headgly,England,2,Leeds (Headingley),NA,"Hussain, N (b1968-3-28)","Stewart, AJ (b1963-4-8)",2001-08-16,2001-08-20,5,England,wickets,6,1,10,309,0,7,2,3,428,0
+20010816_01556_Headgly,England,2,Leeds (Headingley),NA,"Hussain, N (b1968-3-28)","Stewart, AJ (b1963-4-8)",2001-08-16,2001-08-20,5,England,wickets,6,2,4,315,0,3,14,16,329,0
+20010823_01558_TheOval,England,2,The Oval,NA,"Hussain, N (b1968-3-28)","Stewart, AJ (b1963-4-8)",2001-08-23,2001-08-27,5,Australia,innings and runs,25,1,10,432,1,5,3,13,514,0
+20010823_01558_TheOval,England,2,The Oval,NA,"Hussain, N (b1968-3-28)","Stewart, AJ (b1963-4-8)",2001-08-23,2001-08-27,5,Australia,innings and runs,25,2,10,184,0,2,0,2,283,0
+20011108_01565_Gabba,New Zealand,2,Brisbane ('Gabba),NA,"Fleming, SP (b1973-4-1)","Parore, AC (b1971-1-23)",2001-11-08,2001-11-12,5,draw,draw,0,1,8,287,0,26,0,15,405,0
+20011108_01565_Gabba,New Zealand,2,Brisbane ('Gabba),NA,"Fleming, SP (b1973-4-1)","Parore, AC (b1971-1-23)",2001-11-08,2001-11-12,5,draw,draw,0,2,6,274,1,3,1,9,250,0
+20011122_01571_Bellrve,New Zealand,2,Hobart (Bellerive),NA,"Fleming, SP (b1973-4-1)","Parore, AC (b1971-1-23)",2001-11-22,2001-11-26,5,draw,draw,0,1,7,243,0,8,0,1,443,0
+20011122_01571_Bellrve,New Zealand,2,Hobart (Bellerive),NA,"Fleming, SP (b1973-4-1)","Parore, AC (b1971-1-23)",2001-11-22,2001-11-26,5,draw,draw,0,2,0,0,0,0,0,0,0,0
+20011130_01573_Perth,Australia,2,Perth (WACA),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2001-11-30,2001-12-04,5,draw,draw,0,1,10,351,1,16,0,2,446,0
+20011130_01573_Perth,Australia,2,Perth (WACA),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2001-11-30,2001-12-04,5,draw,draw,0,2,7,381,2,16,0,3,445,0
+20011214_01576_Adlaide,South Africa,2,Adelaide,NA,"Pollock, SM (b1973-7-16)","Boucher, MV (b1976-12-3)",2001-12-14,2001-12-18,5,Australia,runs,246,1,10,374,0,11,8,9,512,0
+20011214_01576_Adlaide,South Africa,2,Adelaide,NA,"Pollock, SM (b1973-7-16)","Boucher, MV (b1976-12-3)",2001-12-14,2001-12-18,5,Australia,runs,246,2,10,128,1,3,4,1,280,0
+20011226_01580_MCG,Australia,2,Melbourne (MCG),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2001-12-26,2001-12-29,5,Australia,wickets,9,1,10,487,1,9,0,17,563,0
+20011226_01580_MCG,Australia,2,Melbourne (MCG),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2001-12-26,2001-12-29,5,Australia,wickets,9,2,1,10,0,0,0,0,14,0
+20020102_01582_Sydney,South Africa,2,Sydney (SCG),NA,"Pollock, SM (b1973-7-16)","Boucher, MV (b1976-12-3)",2002-01-02,2002-01-05,5,Australia,wickets,10,1,10,154,0,1,0,8,241,0
+20020102_01582_Sydney,South Africa,2,Sydney (SCG),NA,"Pollock, SM (b1973-7-16)","Boucher, MV (b1976-12-3)",2002-01-02,2002-01-05,5,Australia,wickets,10,2,10,452,0,3,8,7,525,0
+20020222_01590_Wandrer,South Africa,2,Johannesburg (Wanderers),NA,"Boucher, MV (b1976-12-3)","Boucher, MV (b1976-12-3)",2002-02-22,2002-02-24,5,Australia,innings and runs,360,1,10,159,0,5,4,3,230,0
+20020222_01590_Wandrer,South Africa,2,Johannesburg (Wanderers),NA,"Boucher, MV (b1976-12-3)","Boucher, MV (b1976-12-3)",2002-02-22,2002-02-24,5,Australia,innings and runs,360,2,10,133,1,3,0,0,176,0
+20020308_01593_CapeTn,Australia,2,Cape Town,NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2002-03-08,2002-03-12,5,Australia,wickets,4,1,10,382,2,0,2,1,366,0
+20020308_01593_CapeTn,Australia,2,Cape Town,NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2002-03-08,2002-03-12,5,Australia,wickets,4,2,6,334,0,5,0,6,366,0
+20020315_01595_Kingsmd,South Africa,2,Durban (Kingsmead),NA,"Boucher, MV (b1976-12-3)","Boucher, MV (b1976-12-3)",2002-03-15,2002-03-18,5,South Africa,wickets,5,1,10,167,1,4,0,1,258,0
+20020315_01595_Kingsmd,South Africa,2,Durban (Kingsmead),NA,"Boucher, MV (b1976-12-3)","Boucher, MV (b1976-12-3)",2002-03-15,2002-03-18,5,South Africa,wickets,5,2,5,340,2,5,0,2,449,0
+20021003_01615_ColombP,Pakistan,2,Colombo (PSS),NA,Waqar Younis (b1969-11-16),Rashid Latif (b1968-10-14),2002-10-03,2002-10-07,5,Australia,runs,41,1,10,279,0,3,7,14,290,0
+20021003_01615_ColombP,Pakistan,2,Colombo (PSS),NA,Waqar Younis (b1969-11-16),Rashid Latif (b1968-10-14),2002-10-03,2002-10-07,5,Australia,runs,41,2,10,274,0,8,3,6,440,0
+20021011_01617_Sharjah,Australia,2,Sharjah,NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2002-10-11,2002-10-12,5,Australia,innings and runs,198,1,10,310,0,2,15,7,435,0
+20021011_01617_Sharjah,Australia,2,Sharjah,NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2002-10-11,2002-10-12,5,Australia,innings and runs,198,2,0,0,0,0,0,0,0,0
+20021019_01620_Sharjah,Pakistan,2,Sharjah,NA,Waqar Younis (b1969-11-16),Rashid Latif (b1968-10-14),2002-10-19,2002-10-22,5,Australia,innings and runs,20,1,10,221,2,11,3,10,322,0
+20021019_01620_Sharjah,Pakistan,2,Sharjah,NA,Waqar Younis (b1969-11-16),Rashid Latif (b1968-10-14),2002-10-19,2002-10-22,5,Australia,innings and runs,20,2,10,203,0,9,0,9,331,0
+20021107_01623_Gabba,England,2,Brisbane ('Gabba),NA,"Hussain, N (b1968-3-28)","Stewart, AJ (b1963-4-8)",2002-11-07,2002-11-10,5,Australia,runs,384,1,9,325,0,7,2,8,451,0
+20021107_01623_Gabba,England,2,Brisbane ('Gabba),NA,"Hussain, N (b1968-3-28)","Stewart, AJ (b1963-4-8)",2002-11-07,2002-11-10,5,Australia,runs,384,2,9,79,0,4,0,1,127,0
+20021121_01628_Adlaide,Australia,2,Adelaide,NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2002-11-21,2002-11-24,5,Australia,innings and runs,51,1,9,552,7,18,1,17,594,0
+20021121_01628_Adlaide,Australia,2,Adelaide,NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2002-11-21,2002-11-24,5,Australia,innings and runs,51,2,0,0,0,0,0,0,0,0
+20021129_01629_Perth,Australia,2,Perth (WACA),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2002-11-29,2002-12-01,5,Australia,innings and runs,48,1,10,456,0,15,4,5,436,0
+20021129_01629_Perth,Australia,2,Perth (WACA),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2002-11-29,2002-12-01,5,Australia,innings and runs,48,2,0,0,0,0,0,0,0,0
+20021226_01634_MCG,England,2,Melbourne (MCG),NA,"Hussain, N (b1968-3-28)","Foster, JS (b1980-4-15)",2002-12-26,2002-12-30,5,Australia,wickets,5,1,10,270,0,14,3,10,364,0
+20021226_01634_MCG,England,2,Melbourne (MCG),NA,"Hussain, N (b1968-3-28)","Foster, JS (b1980-4-15)",2002-12-26,2002-12-30,5,Australia,wickets,5,2,10,387,2,6,3,21,477,0
+20030102_01636_Sydney,Australia,2,Sydney (SCG),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2003-01-02,2003-01-06,5,England,runs,225,1,10,363,2,9,2,6,373,0
+20030102_01636_Sydney,Australia,2,Sydney (SCG),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2003-01-02,2003-01-06,5,England,runs,225,2,10,226,3,3,6,8,243,0
+20030410_01638_GeorgTn,Australia,2,Georgetown (Guyana),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2003-04-10,2003-04-13,5,Australia,wickets,9,1,10,489,2,10,18,5,540,0
+20030410_01638_GeorgTn,Australia,2,Georgetown (Guyana),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2003-04-10,2003-04-13,5,Australia,wickets,9,2,1,147,2,3,1,2,181,0
+20030419_01639_PortSp,West Indies,2,Port-of-Spain (Trinidad),NA,"Lara, BC (b1969-5-2)","Baugh, CS (b1982-6-23)",2003-04-19,2003-04-23,5,Australia,runs,118,1,10,408,2,8,4,15,525,0
+20030419_01639_PortSp,West Indies,2,Port-of-Spain (Trinidad),NA,"Lara, BC (b1969-5-2)","Baugh, CS (b1982-6-23)",2003-04-19,2003-04-23,5,Australia,runs,118,2,10,288,3,10,25,7,400,0
+20030501_01643_Bridgtn,West Indies,2,Bridgetown (Barbados),NA,"Lara, BC (b1969-5-2)","Baugh, CS (b1982-6-23)",2003-05-01,2003-05-05,5,Australia,wickets,9,1,10,328,0,11,11,16,555,0
+20030501_01643_Bridgtn,West Indies,2,Bridgetown (Barbados),NA,"Lara, BC (b1969-5-2)","Baugh, CS (b1982-6-23)",2003-05-01,2003-05-05,5,Australia,wickets,9,2,10,284,1,2,13,25,515,0
+20030718_01650_DarwnM,Australia,2,Darwin (Marrara CG),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2003-07-18,2003-07-20,5,Australia,innings and runs,132,1,7,407,7,3,5,8,483,0
+20030718_01650_DarwnM,Australia,2,Darwin (Marrara CG),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2003-07-18,2003-07-20,5,Australia,innings and runs,132,2,0,0,0,0,0,0,0,0
+20030725_01652_Cairns,Australia,2,Cairns,NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2003-07-25,2003-07-28,5,Australia,innings and runs,98,1,4,556,1,1,0,11,566,0
+20030725_01652_Cairns,Australia,2,Cairns,NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2003-07-25,2003-07-28,5,Australia,innings and runs,98,2,0,0,0,0,0,0,0,0
+20031009_01661_Perth,Zimbabwe,2,Perth (WACA),NA,"Streak, HH (b1974-3-16)","Taibu, T (b1983-5-14)",2003-10-09,2003-10-13,5,Australia,innings and runs,175,1,10,239,2,5,0,10,376,0
+20031009_01661_Perth,Zimbabwe,2,Perth (WACA),NA,"Streak, HH (b1974-3-16)","Taibu, T (b1983-5-14)",2003-10-09,2003-10-13,5,Australia,innings and runs,175,2,10,321,5,6,4,6,488,0
+20031017_01663_Sydney,Australia,2,Sydney (SCG),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2003-10-17,2003-10-20,5,Australia,wickets,9,1,10,403,1,13,0,2,448,0
+20031017_01663_Sydney,Australia,2,Sydney (SCG),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2003-10-17,2003-10-20,5,Australia,wickets,9,2,1,172,0,4,3,3,140,0
+20031204_01671_Gabba,India,2,Brisbane ('Gabba),NA,"Ganguly, SC (b1972-7-8)","Patel, PA (b1985-3-9)",2003-12-04,2003-12-08,5,draw,draw,0,1,10,409,1,6,0,6,501,0
+20031204_01671_Gabba,India,2,Brisbane ('Gabba),NA,"Ganguly, SC (b1972-7-8)","Patel, PA (b1985-3-9)",2003-12-04,2003-12-08,5,draw,draw,0,2,2,73,0,2,0,0,72,0
+20031212_01673_Adlaide,India,2,Adelaide,NA,"Ganguly, SC (b1972-7-8)","Patel, PA (b1985-3-9)",2003-12-12,2003-12-16,5,India,wickets,4,1,10,523,2,2,4,2,645,0
+20031212_01673_Adlaide,India,2,Adelaide,NA,"Ganguly, SC (b1972-7-8)","Patel, PA (b1985-3-9)",2003-12-12,2003-12-16,5,India,wickets,4,2,6,233,1,0,3,6,306,0
+20031226_01678_MCG,Australia,2,Melbourne (MCG),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2003-12-26,2003-12-30,5,Australia,wickets,9,1,10,558,5,17,4,8,626,0
+20031226_01678_MCG,Australia,2,Melbourne (MCG),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2003-12-26,2003-12-30,5,Australia,wickets,9,2,1,97,1,4,4,2,99,0
+20040102_01680_Sydney,Australia,2,Sydney (SCG),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2004-01-02,2004-01-06,5,draw,draw,0,1,10,474,3,20,6,9,502,0
+20040102_01680_Sydney,Australia,2,Sydney (SCG),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",2004-01-02,2004-01-06,5,draw,draw,0,2,6,357,2,13,6,7,383,0
+20040308_01685_Galle,Sri Lanka,2,Galle,NA,"Tillakaratne, HP (b1967-7-14)","Sangakkara, KC (b1977-10-27)",2004-03-08,2004-03-12,5,Australia,runs,197,1,10,381,0,1,2,0,533,0
+20040308_01685_Galle,Sri Lanka,2,Galle,NA,"Tillakaratne, HP (b1967-7-14)","Sangakkara, KC (b1977-10-27)",2004-03-08,2004-03-12,5,Australia,runs,197,2,10,154,1,1,4,0,183,0
+20040316_01688_Kandy,Sri Lanka,2,Kandy,NA,"Tillakaratne, HP (b1967-7-14)","Sangakkara, KC (b1977-10-27)",2004-03-16,2004-03-20,5,Australia,runs,27,1,10,211,0,3,8,9,268,0
+20040316_01688_Kandy,Sri Lanka,2,Kandy,NA,"Tillakaratne, HP (b1967-7-14)","Sangakkara, KC (b1977-10-27)",2004-03-16,2004-03-20,5,Australia,runs,27,2,10,324,0,1,4,14,332,0
+20040324_01691_ColSSC,Sri Lanka,2,Colombo (SSC),NA,"Tillakaratne, HP (b1967-7-14)","Sangakkara, KC (b1977-10-27)",2004-03-24,2004-03-28,5,Australia,runs,121,1,10,407,1,2,4,7,533,0
+20040324_01691_ColSSC,Sri Lanka,2,Colombo (SSC),NA,"Tillakaratne, HP (b1967-7-14)","Sangakkara, KC (b1977-10-27)",2004-03-24,2004-03-28,5,Australia,runs,121,2,10,248,1,2,4,1,403,0
+20040709_01706_Cairns,Sri Lanka,2,Cairns,NA,"Atapattu, MS (b1970-11-22)","Kaluwitharana, RS (b1969-11-24)",2004-07-09,2004-07-13,5,draw,draw,0,1,10,455,2,17,3,10,600,0
+20040709_01706_Cairns,Sri Lanka,2,Cairns,NA,"Atapattu, MS (b1970-11-22)","Kaluwitharana, RS (b1969-11-24)",2004-07-09,2004-07-13,5,draw,draw,0,2,8,183,0,9,5,3,335,0
+20041103_01720_Wankhed,Australia,2,Mumbai (Wankhede),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2004-11-03,2004-11-05,5,India,runs,13,1,10,203,0,4,2,4,258,0
+20041103_01720_Wankhed,Australia,2,Mumbai (Wankhede),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2004-11-03,2004-11-05,5,India,runs,13,2,10,93,0,0,8,5,136,0
+20041118_01721_Gabba,Australia,2,Brisbane ('Gabba),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2004-11-18,2004-11-21,5,Australia,innings and runs,156,1,10,585,1,8,1,7,641,0
+20041118_01721_Gabba,Australia,2,Brisbane ('Gabba),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2004-11-18,2004-11-21,5,Australia,innings and runs,156,2,0,0,0,0,0,0,0,0
+20041126_01723_Adlaide,New Zealand,2,Adelaide,NA,"Fleming, SP (b1973-4-1)","McCullum, BB (b1981-9-27)",2004-11-26,2004-11-30,5,Australia,runs,213,1,10,251,0,9,3,5,377,0
+20041126_01723_Adlaide,New Zealand,2,Adelaide,NA,"Fleming, SP (b1973-4-1)","McCullum, BB (b1981-9-27)",2004-11-26,2004-11-30,5,Australia,runs,213,2,10,250,0,5,1,12,338,0
+20041216_01726_Perth,Pakistan,2,Perth (WACA),NA,Inzamam-ul-Haq (b1970-3-3),Kamran Akmal (b1982-1-13),2004-12-16,2004-12-19,5,Australia,runs,491,1,10,179,7,4,1,3,314,0
+20041216_01726_Perth,Pakistan,2,Perth (WACA),NA,Inzamam-ul-Haq (b1970-3-3),Kamran Akmal (b1982-1-13),2004-12-16,2004-12-19,5,Australia,runs,491,2,10,72,2,0,0,7,146,0
+20041226_01729_MCG,Australia,2,Melbourne (MCG),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2004-12-26,2004-12-29,5,Australia,wickets,9,1,10,379,5,19,1,2,454,0
+20041226_01729_MCG,Australia,2,Melbourne (MCG),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2004-12-26,2004-12-29,5,Australia,wickets,9,2,1,127,0,2,0,2,110,0
+20050102_01731_Sydney,Australia,2,Sydney (SCG),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2005-01-02,2005-01-05,5,Australia,wickets,9,1,10,568,3,20,6,13,554,0
+20050102_01731_Sydney,Australia,2,Sydney (SCG),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2005-01-02,2005-01-05,5,Australia,wickets,9,2,1,62,0,1,0,0,38,0
+20050310_01739_ChrChch,Australia,2,Christchurch,NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2005-03-10,2005-03-13,5,Australia,wickets,9,1,10,432,3,4,2,13,496,0
+20050310_01739_ChrChch,Australia,2,Christchurch,NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2005-03-10,2005-03-13,5,Australia,wickets,9,2,1,135,0,1,0,0,124,0
+20050318_01742_Wellton,New Zealand,2,Wellington,NA,"Fleming, SP (b1973-4-1)","McCullum, BB (b1981-9-27)",2005-03-18,2005-03-22,5,draw,draw,0,1,10,244,1,5,4,8,330,0
+20050318_01742_Wellton,New Zealand,2,Wellington,NA,"Fleming, SP (b1973-4-1)","McCullum, BB (b1981-9-27)",2005-03-18,2005-03-22,5,draw,draw,0,2,3,48,0,1,3,5,145,0
+20050326_01744_Aucklnd,Australia,2,Auckland,NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2005-03-26,2005-03-29,5,Australia,wickets,9,1,10,383,0,9,4,7,463,0
+20050326_01744_Aucklnd,Australia,2,Auckland,NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2005-03-26,2005-03-29,5,Australia,wickets,9,2,1,166,0,2,0,10,137,0
+20050721_01756_Lord's,England,2,Lord's,NA,"Vaughan, MP (b1974-10-29)","Jones, GO (b1976-7-14)",2005-07-21,2005-07-24,5,Australia,runs,239,1,10,155,0,5,1,5,227,0
+20050721_01756_Lord's,England,2,Lord's,NA,"Vaughan, MP (b1974-10-29)","Jones, GO (b1976-7-14)",2005-07-21,2005-07-24,5,Australia,runs,239,2,10,180,0,3,6,5,268,0
+20050804_01758_Edgbast,Australia,2,Birmingham (Edgbaston),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2005-08-04,2005-08-07,5,England,runs,2,1,10,308,1,10,13,7,346,0
+20050804_01758_Edgbast,Australia,2,Birmingham (Edgbaston),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2005-08-04,2005-08-07,5,England,runs,2,2,10,279,1,18,13,8,301,0
+20050811_01760_OldTraf,Australia,2,Manchester (Old Trafford),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2005-08-11,2005-08-15,5,draw,draw,0,1,10,302,8,15,8,7,393,0
+20050811_01760_OldTraf,Australia,2,Manchester (Old Trafford),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2005-08-11,2005-08-15,5,draw,draw,0,2,9,371,1,20,5,8,474,0
+20050825_01762_TrentBr,Australia,2,Nottingham (Trent Bridge),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2005-08-25,2005-08-28,5,England,wickets,3,1,10,218,1,16,0,2,247,0
+20050825_01762_TrentBr,Australia,2,Nottingham (Trent Bridge),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2005-08-25,2005-08-28,5,England,wickets,3,2,10,387,0,14,1,4,548,0
+20050908_01763_TheOval,Australia,2,The Oval,NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2005-09-08,2005-09-12,5,draw,draw,0,1,10,367,2,9,4,8,494,0
+20050908_01763_TheOval,Australia,2,The Oval,NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2005-09-08,2005-09-12,5,draw,draw,0,2,0,4,0,0,0,4,3,0
+20051014_01768_Sydney,World XI,2,Sydney (SCG),NA,"Smith, GC (b1981-2-1)","Boucher, MV (b1976-12-3)",2005-10-14,2005-10-17,6,Australia,runs,210,1,10,190,1,3,1,1,214,0
+20051014_01768_Sydney,World XI,2,Sydney (SCG),NA,"Smith, GC (b1981-2-1)","Boucher, MV (b1976-12-3)",2005-10-14,2005-10-17,6,Australia,runs,210,2,10,144,0,4,1,2,204,0
+20051103_01769_Gabba,West Indies,2,Brisbane ('Gabba),NA,"Chanderpaul, S (b1974-8-16)","Ramdin, D (b1985-3-13)",2005-11-03,2005-11-06,5,Australia,runs,379,1,10,210,1,3,0,7,331,0
+20051103_01769_Gabba,West Indies,2,Brisbane ('Gabba),NA,"Chanderpaul, S (b1974-8-16)","Ramdin, D (b1985-3-13)",2005-11-03,2005-11-06,5,Australia,runs,379,2,10,129,0,10,0,3,242,0
+20051117_01771_Bellrve,Australia,2,Hobart (Bellerive),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2005-11-17,2005-11-21,5,Australia,wickets,9,1,10,406,3,12,0,6,525,0
+20051117_01771_Bellrve,Australia,2,Hobart (Bellerive),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2005-11-17,2005-11-21,5,Australia,wickets,9,2,1,78,0,1,0,0,96,0
+20051125_01773_Adlaide,Australia,2,Adelaide,NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2005-11-25,2005-11-29,5,Australia,wickets,7,1,10,428,2,15,0,7,573,0
+20051125_01773_Adlaide,Australia,2,Adelaide,NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2005-11-25,2005-11-29,5,Australia,wickets,7,2,3,182,1,15,0,3,261,0
+20051216_01777_Perth,South Africa,2,Perth (WACA),NA,"Smith, GC (b1981-2-1)","Boucher, MV (b1976-12-3)",2005-12-16,2005-12-20,5,draw,draw,0,1,10,296,0,12,4,2,364,0
+20051216_01777_Perth,South Africa,2,Perth (WACA),NA,"Smith, GC (b1981-2-1)","Boucher, MV (b1976-12-3)",2005-12-16,2005-12-20,5,draw,draw,0,2,5,287,0,3,18,13,533,0
+20051226_01779_MCG,South Africa,2,Melbourne (MCG),NA,"Smith, GC (b1981-2-1)","Boucher, MV (b1976-12-3)",2005-12-26,2005-12-30,5,Australia,runs,184,1,10,311,0,15,2,7,467,0
+20051226_01779_MCG,South Africa,2,Melbourne (MCG),NA,"Smith, GC (b1981-2-1)","Boucher, MV (b1976-12-3)",2005-12-26,2005-12-30,5,Australia,runs,184,2,10,181,1,4,0,6,307,0
+20060102_01780_Sydney,Australia,2,Sydney (SCG),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2006-01-02,2006-01-06,5,Australia,wickets,8,1,10,359,2,2,0,10,431,0
+20060102_01780_Sydney,Australia,2,Sydney (SCG),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2006-01-02,2006-01-06,5,Australia,wickets,8,2,2,288,3,4,0,1,258,0
+20060316_01789_CapeTn,Australia,2,Cape Town,NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2006-03-16,2006-03-18,5,Australia,wickets,7,1,10,308,1,0,0,7,389,0
+20060316_01789_CapeTn,Australia,2,Cape Town,NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2006-03-16,2006-03-18,5,Australia,wickets,7,2,3,95,0,0,0,5,125,0
+20060324_01792_Kingsmd,South Africa,2,Durban (Kingsmead),NA,"Smith, GC (b1981-2-1)","Boucher, MV (b1976-12-3)",2006-03-24,2006-03-28,5,Australia,runs,112,1,10,267,0,14,0,3,394,0
+20060324_01792_Kingsmd,South Africa,2,Durban (Kingsmead),NA,"Smith, GC (b1981-2-1)","Boucher, MV (b1976-12-3)",2006-03-24,2006-03-28,5,Australia,runs,112,2,10,297,0,14,5,8,438,0
+20060331_01795_Wandrer,Australia,2,Johannesburg (Wanderers),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2006-03-31,2006-04-04,5,Australia,wickets,2,1,9,270,2,0,5,14,286,0
+20060331_01795_Wandrer,Australia,2,Johannesburg (Wanderers),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2006-03-31,2006-04-04,5,Australia,wickets,2,2,8,294,0,1,1,9,388,0
+20060409_01797_Fatulh,Australia,2,Fatullah,NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2006-04-09,2006-04-13,5,Australia,wickets,3,1,10,269,0,1,0,4,405,0
+20060409_01797_Fatulh,Australia,2,Fatullah,NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2006-04-09,2006-04-13,5,Australia,wickets,3,2,7,307,1,2,4,7,475,0
+20060416_01799_ChitDiv,Australia,2,Chittagong Divisional,NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2006-04-16,2006-04-20,5,Australia,innings and runs,80,1,4,581,5,3,10,10,647,0
+20060416_01799_ChitDiv,Australia,2,Chittagong Divisional,NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2006-04-16,2006-04-20,5,Australia,innings and runs,80,2,0,0,0,0,0,0,0,0
+20061123_01817_Gabba,England,2,Brisbane ('Gabba),NA,"Flintoff, A (b1977-12-6)","Jones, GO (b1976-7-14)",2006-11-23,2006-11-27,5,Australia,runs,277,1,10,157,2,6,2,8,283,0
+20061123_01817_Gabba,England,2,Brisbane ('Gabba),NA,"Flintoff, A (b1977-12-6)","Jones, GO (b1976-7-14)",2006-11-23,2006-11-27,5,Australia,runs,277,2,10,370,2,11,8,10,445,0
+20061201_01819_Adlaide,Australia,2,Adelaide,NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2006-12-01,2006-12-05,5,Australia,wickets,6,1,10,513,1,7,4,2,718,0
+20061201_01819_Adlaide,Australia,2,Adelaide,NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2006-12-01,2006-12-05,5,Australia,wickets,6,2,4,168,1,2,2,2,161,0
+20061214_01821_Perth,England,2,Perth (WACA),NA,"Flintoff, A (b1977-12-6)","Jones, GO (b1976-7-14)",2006-12-14,2006-12-18,5,Australia,runs,206,1,10,215,1,10,0,0,301,0
+20061214_01821_Perth,England,2,Perth (WACA),NA,"Flintoff, A (b1977-12-6)","Jones, GO (b1976-7-14)",2006-12-14,2006-12-18,5,Australia,runs,206,2,10,350,6,5,7,8,540,0
+20061226_01824_MCG,Australia,2,Melbourne (MCG),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2006-12-26,2006-12-28,5,Australia,innings and runs,99,1,10,419,1,9,0,6,510,0
+20061226_01824_MCG,Australia,2,Melbourne (MCG),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2006-12-26,2006-12-28,5,Australia,innings and runs,99,2,0,0,0,0,0,0,0,0
+20070102_01826_Sydney,Australia,2,Sydney (SCG),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2007-01-02,2007-01-05,5,Australia,wickets,10,1,10,393,4,6,0,10,431,0
+20070102_01826_Sydney,Australia,2,Sydney (SCG),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2007-01-02,2007-01-05,5,Australia,wickets,10,2,0,46,0,0,0,3,44,0
+20071108_01845_Gabba,Sri Lanka,2,Brisbane ('Gabba),NA,"Jayawardena, DPMD (b1977-5-27)","Jayawardane, HAPW (b1979-9-9)",2007-11-08,2007-11-12,5,Australia,innings and runs,40,1,10,211,0,6,0,1,350,0
+20071108_01845_Gabba,Sri Lanka,2,Brisbane ('Gabba),NA,"Jayawardena, DPMD (b1977-5-27)","Jayawardane, HAPW (b1979-9-9)",2007-11-08,2007-11-12,5,Australia,innings and runs,40,2,10,300,0,6,4,3,430,0
+20071116_01847_Bellrve,Sri Lanka,2,Hobart (Bellerive),NA,"Jayawardena, DPMD (b1977-5-27)","Jayawardane, HAPW (b1979-9-9)",2007-11-16,2007-11-20,5,Australia,runs,96,1,10,246,0,9,0,7,367,0
+20071116_01847_Bellrve,Sri Lanka,2,Hobart (Bellerive),NA,"Jayawardena, DPMD (b1977-5-27)","Jayawardane, HAPW (b1979-9-9)",2007-11-16,2007-11-20,5,Australia,runs,96,2,10,410,6,13,1,6,470,0
+20071226_01855_MCG,India,2,Melbourne (MCG),NA,"Kumble, A (b1970-10-17)","Dhoni, MS (b1981-7-7)",2007-12-26,2007-12-29,5,Australia,runs,337,1,10,196,0,7,4,3,305,0
+20071226_01855_MCG,India,2,Melbourne (MCG),NA,"Kumble, A (b1970-10-17)","Dhoni, MS (b1981-7-7)",2007-12-26,2007-12-29,5,Australia,runs,337,2,10,161,0,6,1,0,340,0
+20080102_01857_Sydney,India,2,Sydney (SCG),NA,"Kumble, A (b1970-10-17)","Dhoni, MS (b1981-7-7)",2008-01-02,2008-01-06,5,Australia,runs,122,1,10,532,6,8,4,13,665,0
+20080102_01857_Sydney,India,2,Sydney (SCG),NA,"Kumble, A (b1970-10-17)","Dhoni, MS (b1981-7-7)",2008-01-02,2008-01-06,5,Australia,runs,122,2,10,210,0,2,0,0,304,0
+20080116_01862_Perth,Australia,2,Perth (WACA),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2008-01-16,2008-01-19,5,India,runs,72,1,10,212,4,2,4,1,240,0
+20080116_01862_Perth,Australia,2,Perth (WACA),NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2008-01-16,2008-01-19,5,India,runs,72,2,10,340,8,10,0,6,396,0
+20080124_01863_Adlaide,Australia,2,Adelaide,NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2008-01-24,2008-01-28,5,draw,draw,0,1,10,563,10,11,10,12,783,0
+20080124_01863_Adlaide,Australia,2,Adelaide,NA,"Ponting, RT (b1974-12-19)","Gilchrist, AC (b1971-11-14)",2008-01-24,2008-01-28,5,draw,draw,0,2,0,0,0,0,0,0,0,0
+20080522_01875_Kingstn,West Indies,2,Kingston (Jamaica),NA,"Sarwan, RR (b1980-6-23)","Ramdin, D (b1985-3-13)",2008-05-22,2008-05-26,5,Australia,runs,95,1,10,312,3,14,2,10,485,0
+20080522_01875_Kingstn,West Indies,2,Kingston (Jamaica),NA,"Sarwan, RR (b1980-6-23)","Ramdin, D (b1985-3-13)",2008-05-22,2008-05-26,5,Australia,runs,95,2,10,191,0,3,4,2,335,0
+20080530_01877_NthSnd,West Indies,2,North Sound (Antigua),NA,"Sarwan, RR (b1980-6-23)","Ramdin, D (b1985-3-13)",2008-05-30,2008-06-03,5,draw,draw,0,1,10,352,2,12,17,13,470,0
+20080530_01877_NthSnd,West Indies,2,North Sound (Antigua),NA,"Sarwan, RR (b1980-6-23)","Ramdin, D (b1985-3-13)",2008-05-30,2008-06-03,5,draw,draw,0,2,5,266,0,12,0,8,470,0
+20080612_01879_Bridgtn,West Indies,2,Bridgetown (Barbados),NA,"Gayle, CH (b1979-9-21)","Ramdin, D (b1985-3-13)",2008-06-12,2008-06-16,5,Australia,runs,87,1,10,216,0,8,0,7,287,0
+20080612_01879_Bridgtn,West Indies,2,Bridgetown (Barbados),NA,"Gayle, CH (b1979-9-21)","Ramdin, D (b1985-3-13)",2008-06-12,2008-06-16,5,Australia,runs,87,2,10,387,8,12,10,8,477,0
+20081009_01887_Bangalr,India,2,Bangalore,NA,"Kumble, A (b1970-10-17)","Dhoni, MS (b1981-7-7)",2008-10-09,2008-10-13,5,draw,draw,0,1,10,360,0,6,23,23,551,0
+20081009_01887_Bangalr,India,2,Bangalore,NA,"Kumble, A (b1970-10-17)","Dhoni, MS (b1981-7-7)",2008-10-09,2008-10-13,5,draw,draw,0,2,4,177,0,1,16,3,290,0
+20081017_01889_Mohali,Australia,2,Mohali,NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2008-10-17,2008-10-21,5,India,runs,320,1,10,268,0,4,0,13,454,0
+20081017_01889_Mohali,Australia,2,Mohali,NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2008-10-17,2008-10-21,5,India,runs,320,2,10,195,0,4,4,0,287,0
+20081029_01891_DelhiFK,Australia,2,Delhi (Feroz Shah Kotla),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2008-10-29,2008-11-02,5,draw,draw,0,1,10,577,2,10,28,17,745,0
+20081029_01891_DelhiFK,Australia,2,Delhi (Feroz Shah Kotla),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2008-10-29,2008-11-02,5,draw,draw,0,2,0,31,0,0,0,1,28,0
+20081106_01892_NgprV,Australia,2,Nagpur (VCAS),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2008-11-06,2008-11-10,5,India,runs,172,1,10,355,2,6,12,3,570,0
+20081106_01892_NgprV,Australia,2,Nagpur (VCAS),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2008-11-06,2008-11-10,5,India,runs,172,2,10,209,4,2,6,1,247,0
+20081120_01894_Gabba,New Zealand,2,Brisbane ('Gabba),NA,"Vettori, DL (b1979-1-27)","McCullum, BB (b1981-9-27)",2008-11-20,2008-11-23,5,Australia,runs,149,1,10,156,0,6,0,3,240,0
+20081120_01894_Gabba,New Zealand,2,Brisbane ('Gabba),NA,"Vettori, DL (b1979-1-27)","McCullum, BB (b1981-9-27)",2008-11-20,2008-11-23,5,Australia,runs,149,2,10,177,2,3,0,5,244,0
+20081128_01896_Adlaide,Australia,2,Adelaide,NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2008-11-28,2008-12-01,5,Australia,innings and runs,62,1,10,535,1,5,2,8,640,0
+20081128_01896_Adlaide,Australia,2,Adelaide,NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2008-11-28,2008-12-01,5,Australia,innings and runs,62,2,0,0,0,0,0,0,0,0
+20081217_01899_Perth,South Africa,2,Perth (WACA),NA,"Smith, GC (b1981-2-1)","Boucher, MV (b1976-12-3)",2008-12-17,2008-12-21,5,South Africa,wickets,6,1,10,281,5,7,0,5,387,0
+20081217_01899_Perth,South Africa,2,Perth (WACA),NA,"Smith, GC (b1981-2-1)","Boucher, MV (b1976-12-3)",2008-12-17,2008-12-21,5,South Africa,wickets,6,2,4,414,2,6,13,9,517,0
+20081226_01902_MCG,South Africa,2,Melbourne (MCG),NA,"Smith, GC (b1981-2-1)","Boucher, MV (b1976-12-3)",2008-12-26,2008-12-30,5,South Africa,wickets,9,1,10,459,0,15,5,13,615,0
+20081226_01902_MCG,South Africa,2,Melbourne (MCG),NA,"Smith, GC (b1981-2-1)","Boucher, MV (b1976-12-3)",2008-12-26,2008-12-30,5,South Africa,wickets,9,2,1,183,2,8,0,9,204,0
+20090103_01904_Sydney,South Africa,2,Sydney (SCG),NA,"Smith, GC (b1981-2-1)","Boucher, MV (b1976-12-3)",2009-01-03,2009-01-07,5,Australia,runs,103,1,9,327,9,4,0,12,486,0
+20090103_01904_Sydney,South Africa,2,Sydney (SCG),NA,"Smith, GC (b1981-2-1)","Boucher, MV (b1976-12-3)",2009-01-03,2009-01-07,5,Australia,runs,103,2,10,272,4,2,12,18,442,0
+20090226_01910_Wandrer,South Africa,2,Johannesburg (Wanderers),NA,"Smith, GC (b1981-2-1)","Boucher, MV (b1976-12-3)",2009-02-26,2009-03-02,5,Australia,runs,162,1,10,220,0,4,4,6,356,0
+20090226_01910_Wandrer,South Africa,2,Johannesburg (Wanderers),NA,"Smith, GC (b1981-2-1)","Boucher, MV (b1976-12-3)",2009-02-26,2009-03-02,5,Australia,runs,162,2,10,291,2,4,1,6,515,0
+20090306_01913_Kingsmd,South Africa,2,Durban (Kingsmead),NA,"Smith, GC (b1981-2-1)","Boucher, MV (b1976-12-3)",2009-03-06,2009-03-10,5,Australia,runs,175,1,9,138,0,1,10,12,277,0
+20090306_01913_Kingsmd,South Africa,2,Durban (Kingsmead),NA,"Smith, GC (b1981-2-1)","Boucher, MV (b1976-12-3)",2009-03-06,2009-03-10,5,Australia,runs,175,2,9,370,3,10,9,15,549,0
+20090319_01916_CapeTn,South Africa,2,Cape Town,NA,"Kallis, JH (b1975-10-16)","Boucher, MV (b1976-12-3)",2009-03-19,2009-03-22,5,South Africa,innings and runs,20,1,10,651,9,10,19,24,679,0
+20090319_01916_CapeTn,South Africa,2,Cape Town,NA,"Kallis, JH (b1975-10-16)","Boucher, MV (b1976-12-3)",2009-03-19,2009-03-22,5,South Africa,innings and runs,20,2,0,0,0,0,0,0,0,0
+20090708_01922_Cardiff,Australia,2,Cardiff,NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2009-07-08,2009-07-12,5,draw,draw,0,1,6,674,4,7,9,14,744,0
+20090708_01922_Cardiff,Australia,2,Cardiff,NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2009-07-08,2009-07-12,5,draw,draw,0,2,0,0,0,0,0,0,0,0
+20090716_01925_Lord's,Australia,2,Lord's,NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2009-07-16,2009-07-20,5,England,runs,115,1,10,215,0,2,4,6,267,0
+20090716_01925_Lord's,Australia,2,Lord's,NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2009-07-16,2009-07-20,5,England,runs,115,2,10,406,0,8,5,8,473,0
+20090730_01928_Edgbast,England,2,Birmingham (Edgbaston),NA,"Strauss, AJ (b1977-3-2)","Prior, MJ (b1982-2-26)",2009-07-30,2009-08-03,5,draw,draw,0,1,10,376,6,9,2,4,399,0
+20090730_01928_Edgbast,England,2,Birmingham (Edgbaston),NA,"Strauss, AJ (b1977-3-2)","Prior, MJ (b1982-2-26)",2009-07-30,2009-08-03,5,draw,draw,0,2,0,0,0,0,0,0,0,0
+20090807_01929_Headgly,Australia,2,Leeds (Headingley),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2009-08-07,2009-08-09,5,Australia,innings and runs,80,1,10,445,4,3,9,14,463,0
+20090807_01929_Headgly,Australia,2,Leeds (Headingley),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2009-08-07,2009-08-09,5,Australia,innings and runs,80,2,0,0,0,0,0,0,0,0
+20090820_01931_TheOval,Australia,2,The Oval,NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2009-08-20,2009-08-23,5,England,runs,197,1,10,160,0,1,1,5,226,0
+20090820_01931_TheOval,Australia,2,The Oval,NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2009-08-20,2009-08-23,5,England,runs,197,2,10,348,0,6,7,7,430,0
+20091126_01936_Gabba,West Indies,2,Brisbane ('Gabba),NA,"Gayle, CH (b1979-9-21)","Ramdin, D (b1985-3-13)",2009-11-26,2009-11-28,5,Australia,innings and runs,65,1,10,228,0,5,1,3,285,0
+20091126_01936_Gabba,West Indies,2,Brisbane ('Gabba),NA,"Gayle, CH (b1979-9-21)","Ramdin, D (b1985-3-13)",2009-11-26,2009-11-28,5,Australia,innings and runs,65,2,10,187,0,6,0,4,233,0
+20091204_01939_Adlaide,Australia,2,Adelaide,NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2009-12-04,2009-12-08,5,draw,draw,0,1,10,439,0,18,0,2,533,0
+20091204_01939_Adlaide,Australia,2,Adelaide,NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2009-12-04,2009-12-08,5,draw,draw,0,2,5,212,0,7,1,2,320,0
+20091216_01941_Perth,West Indies,2,Perth (WACA),NA,"Gayle, CH (b1979-9-21)","Ramdin, D (b1985-3-13)",2009-12-16,2009-12-20,5,Australia,runs,35,1,10,312,1,6,0,5,370,0
+20091216_01941_Perth,West Indies,2,Perth (WACA),NA,"Gayle, CH (b1979-9-21)","Ramdin, D (b1985-3-13)",2009-12-16,2009-12-20,5,Australia,runs,35,2,10,323,1,5,9,9,395,0
+20091226_01943_MCG,Pakistan,2,Melbourne (MCG),NA,Mohammad Yousuf (b1974-8-27),Kamran Akmal (b1982-1-13),2009-12-26,2009-12-30,5,Australia,runs,170,1,10,258,1,9,4,3,443,0
+20091226_01943_MCG,Pakistan,2,Melbourne (MCG),NA,Mohammad Yousuf (b1974-8-27),Kamran Akmal (b1982-1-13),2009-12-26,2009-12-30,5,Australia,runs,170,2,10,251,2,5,13,4,329,0
+20100103_01945_Sydney,Pakistan,2,Sydney (SCG),NA,Mohammad Yousuf (b1974-8-27),Kamran Akmal (b1982-1-13),2010-01-03,2010-01-06,5,Australia,runs,36,1,10,333,5,10,2,16,437,0
+20100103_01945_Sydney,Pakistan,2,Sydney (SCG),NA,Mohammad Yousuf (b1974-8-27),Kamran Akmal (b1982-1-13),2010-01-03,2010-01-06,5,Australia,runs,36,2,10,139,1,1,0,0,178,0
+20100114_01947_Bellrve,Pakistan,2,Hobart (Bellerive),NA,Mohammad Yousuf (b1974-8-27),Sarfraz Ahmed (b1987-5-22),2010-01-14,2010-01-18,5,Australia,runs,231,1,10,301,2,2,2,2,440,0
+20100114_01947_Bellrve,Pakistan,2,Hobart (Bellerive),NA,Mohammad Yousuf (b1974-8-27),Sarfraz Ahmed (b1987-5-22),2010-01-14,2010-01-18,5,Australia,runs,231,2,10,206,0,1,10,3,360,0
+20100319_01955_Wellton,New Zealand,2,Wellington,NA,"Vettori, DL (b1979-1-27)","McCullum, BB (b1981-9-27)",2010-03-19,2010-03-23,5,Australia,wickets,10,1,10,157,2,11,0,4,247,0
+20100319_01955_Wellton,New Zealand,2,Wellington,NA,"Vettori, DL (b1979-1-27)","McCullum, BB (b1981-9-27)",2010-03-19,2010-03-23,5,Australia,wickets,10,2,10,407,1,11,1,14,540,0
+20100327_01957_Hamiltn,New Zealand,2,Hamilton,NA,"Vettori, DL (b1979-1-27)","McCullum, BB (b1981-9-27)",2010-03-27,2010-03-31,5,Australia,runs,176,1,10,264,1,4,0,0,278,0
+20100327_01957_Hamiltn,New Zealand,2,Hamilton,NA,"Vettori, DL (b1979-1-27)","McCullum, BB (b1981-9-27)",2010-03-27,2010-03-31,5,Australia,runs,176,2,10,302,0,2,12,10,362,0
+20100713_01963_Lord's,Pakistan,2,Lord's,NA,Shahid Afridi (b1980-3-1),Kamran Akmal (b1982-1-13),2010-07-13,2010-07-16,5,Australia,runs,150,1,10,148,0,1,0,2,186,0
+20100713_01963_Lord's,Pakistan,2,Lord's,NA,Shahid Afridi (b1980-3-1),Kamran Akmal (b1982-1-13),2010-07-13,2010-07-16,5,Australia,runs,150,2,10,289,0,2,2,1,355,0
+20100721_01965_Headgly,Pakistan,2,Leeds (Headingley),NA,Salman Butt (b1984-10-7),Kamran Akmal (b1982-1-13),2010-07-21,2010-07-24,5,Pakistan,wickets,3,1,10,258,0,9,11,9,290,0
+20100721_01965_Headgly,Pakistan,2,Leeds (Headingley),NA,Salman Butt (b1984-10-7),Kamran Akmal (b1982-1-13),2010-07-21,2010-07-24,5,Pakistan,wickets,3,2,7,180,0,5,0,7,228,0
+20101001_01972_Mohali,India,2,Mohali,NA,"Dhoni, MS (b1981-7-7)","Dhoni, MS (b1981-7-7)",2010-10-01,2010-10-05,5,India,wickets,1,1,10,405,1,1,5,13,487,0
+20101001_01972_Mohali,India,2,Mohali,NA,"Dhoni, MS (b1981-7-7)","Dhoni, MS (b1981-7-7)",2010-10-01,2010-10-05,5,India,wickets,1,2,9,216,6,1,10,8,300,0
+20101009_01973_Bangalr,India,2,Bangalore,NA,"Dhoni, MS (b1981-7-7)","Dhoni, MS (b1981-7-7)",2010-10-09,2010-10-13,5,India,wickets,7,1,10,495,8,0,6,26,636,0
+20101009_01973_Bangalr,India,2,Bangalore,NA,"Dhoni, MS (b1981-7-7)","Dhoni, MS (b1981-7-7)",2010-10-09,2010-10-13,5,India,wickets,7,2,3,207,4,0,8,5,199,0
+20101125_01981_Gabba,Australia,2,Brisbane ('Gabba),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2010-11-25,2010-11-29,5,draw,draw,0,1,10,481,4,1,4,12,662,0
+20101125_01981_Gabba,Australia,2,Brisbane ('Gabba),NA,"Ponting, RT (b1974-12-19)","Haddin, BJ (b1977-10-23)",2010-11-25,2010-11-29,5,draw,draw,0,2,1,107,1,0,4,1,119,0
+20101203_01983_Adlaide,England,2,Adelaide,NA,"Strauss, AJ (b1977-3-2)","Prior, MJ (b1982-2-26)",2010-12-03,2010-12-07,5,England,innings and runs,71,1,5,620,8,0,8,13,673,0
+20101203_01983_Adlaide,England,2,Adelaide,NA,"Strauss, AJ (b1977-3-2)","Prior, MJ (b1982-2-26)",2010-12-03,2010-12-07,5,England,innings and runs,71,2,0,0,0,0,0,0,0,0
+20101216_01984_Perth,England,2,Perth (WACA),NA,"Strauss, AJ (b1977-3-2)","Prior, MJ (b1982-2-26)",2010-12-16,2010-12-19,5,Australia,runs,267,1,10,187,1,2,8,4,267,0
+20101216_01984_Perth,England,2,Perth (WACA),NA,"Strauss, AJ (b1977-3-2)","Prior, MJ (b1982-2-26)",2010-12-16,2010-12-19,5,Australia,runs,267,2,10,123,0,1,0,8,167,0
+20101226_01986_MCG,England,2,Melbourne (MCG),NA,"Strauss, AJ (b1977-3-2)","Prior, MJ (b1982-2-26)",2010-12-26,2010-12-29,5,England,innings and runs,157,1,10,513,3,3,10,2,713,0
+20101226_01986_MCG,England,2,Melbourne (MCG),NA,"Strauss, AJ (b1977-3-2)","Prior, MJ (b1982-2-26)",2010-12-26,2010-12-29,5,England,innings and runs,157,2,0,0,0,0,0,0,0,0
+20110831_02005_Galle,Sri Lanka,2,Galle,NA,"Dilshan, TM (b1976-10-14)","Jayawardane, HAPW (b1979-9-9)",2011-08-31,2011-09-03,5,Australia,runs,125,1,10,105,1,3,0,4,216,0
+20110831_02005_Galle,Sri Lanka,2,Galle,NA,"Dilshan, TM (b1976-10-14)","Jayawardane, HAPW (b1979-9-9)",2011-08-31,2011-09-03,5,Australia,runs,125,2,10,253,1,0,1,1,385,0
+20110916_02008_ColSSC,Sri Lanka,2,Colombo (SSC),NA,"Dilshan, TM (b1976-10-14)","Jayawardane, HAPW (b1979-9-9)",2011-09-16,2011-09-20,5,draw,draw,0,1,10,473,0,2,1,2,739,0
+20110916_02008_ColSSC,Sri Lanka,2,Colombo (SSC),NA,"Dilshan, TM (b1976-10-14)","Jayawardane, HAPW (b1979-9-9)",2011-09-16,2011-09-20,5,draw,draw,0,2,0,7,1,0,0,0,7,0
+20111109_02016_CapeTn,South Africa,2,Cape Town,NA,"Smith, GC (b1981-2-1)","Boucher, MV (b1976-12-3)",2011-11-09,2011-11-11,5,South Africa,wickets,8,1,10,96,1,2,0,4,130,0
+20111109_02016_CapeTn,South Africa,2,Cape Town,NA,"Smith, GC (b1981-2-1)","Boucher, MV (b1976-12-3)",2011-11-09,2011-11-11,5,South Africa,wickets,8,2,2,236,1,2,0,4,232,0
+20111117_02018_Wandrer,Australia,2,Johannesburg (Wanderers),NA,"Clarke, MJ (b1981-4-2)","Haddin, BJ (b1977-10-23)",2011-11-17,2011-11-21,5,Australia,wickets,2,1,10,296,3,4,4,8,360,0
+20111117_02018_Wandrer,Australia,2,Johannesburg (Wanderers),NA,"Clarke, MJ (b1981-4-2)","Haddin, BJ (b1977-10-23)",2011-11-17,2011-11-21,5,Australia,wickets,2,2,8,310,4,7,1,7,401,0
+20111201_02020_Gabba,Australia,2,Brisbane ('Gabba),NA,"Clarke, MJ (b1981-4-2)","Haddin, BJ (b1977-10-23)",2011-12-01,2011-12-04,5,Australia,wickets,9,1,10,427,3,6,0,6,603,0
+20111201_02020_Gabba,Australia,2,Brisbane ('Gabba),NA,"Clarke, MJ (b1981-4-2)","Haddin, BJ (b1977-10-23)",2011-12-01,2011-12-04,5,Australia,wickets,9,2,1,19,0,0,0,0,12,0
+20111209_02021_Bellrve,Australia,2,Hobart (Bellerive),NA,"Clarke, MJ (b1981-4-2)","Haddin, BJ (b1977-10-23)",2011-12-09,2011-12-12,5,New Zealand,runs,7,1,10,136,0,3,1,8,239,0
+20111209_02021_Bellrve,Australia,2,Hobart (Bellerive),NA,"Clarke, MJ (b1981-4-2)","Haddin, BJ (b1977-10-23)",2011-12-09,2011-12-12,5,New Zealand,runs,7,2,10,233,0,0,3,18,318,0
+20111226_02025_MCG,India,2,Melbourne (MCG),NA,"Dhoni, MS (b1981-7-7)","Dhoni, MS (b1981-7-7)",2011-12-26,2011-12-29,5,Australia,runs,122,1,10,282,1,3,0,0,417,0
+20111226_02025_MCG,India,2,Melbourne (MCG),NA,"Dhoni, MS (b1981-7-7)","Dhoni, MS (b1981-7-7)",2011-12-26,2011-12-29,5,Australia,runs,122,2,10,169,2,1,0,10,228,0
+20120103_02027_Sydney,Australia,2,Sydney (SCG),NA,"Clarke, MJ (b1981-4-2)","Haddin, BJ (b1977-10-23)",2012-01-03,2012-01-06,5,Australia,innings and runs,68,1,4,659,4,3,2,13,659,0
+20120103_02027_Sydney,Australia,2,Sydney (SCG),NA,"Clarke, MJ (b1981-4-2)","Haddin, BJ (b1977-10-23)",2012-01-03,2012-01-06,5,Australia,innings and runs,68,2,0,0,0,0,0,0,0,0
+20120113_02029_Perth,Australia,2,Perth (WACA),NA,"Clarke, MJ (b1981-4-2)","Haddin, BJ (b1977-10-23)",2012-01-13,2012-01-15,5,Australia,innings and runs,37,1,10,369,2,0,0,3,362,0
+20120113_02029_Perth,Australia,2,Perth (WACA),NA,"Clarke, MJ (b1981-4-2)","Haddin, BJ (b1977-10-23)",2012-01-13,2012-01-15,5,Australia,innings and runs,37,2,0,0,0,0,0,0,0,0
+20120124_02031_Adlaide,India,2,Adelaide,NA,"Sehwag, V (b1978-10-20)","Saha, WP (b1984-10-24)",2012-01-24,2012-01-28,5,Australia,runs,298,1,10,272,1,2,1,0,378,0
+20120124_02031_Adlaide,India,2,Adelaide,NA,"Sehwag, V (b1978-10-20)","Saha, WP (b1984-10-24)",2012-01-24,2012-01-28,5,Australia,runs,298,2,10,201,2,0,0,3,289,0
+20120407_02040_Bridgtn,Australia,2,Bridgetown (Barbados),NA,"Clarke, MJ (b1981-4-2)","Wade, MS (b1987-12-26)",2012-04-07,2012-04-11,5,Australia,wickets,3,1,9,406,5,5,0,16,630,0
+20120407_02040_Bridgtn,Australia,2,Bridgetown (Barbados),NA,"Clarke, MJ (b1981-4-2)","Wade, MS (b1987-12-26)",2012-04-07,2012-04-11,5,Australia,wickets,3,2,7,192,2,2,1,3,230,0
+20120415_02041_PortSp,West Indies,2,Port-of-Spain (Trinidad),NA,"Sammy, DJG (b1983-12-20)","Baugh, CS (b1982-6-23)",2012-04-15,2012-04-19,5,draw,draw,0,1,10,257,1,8,1,8,420,0
+20120415_02041_PortSp,West Indies,2,Port-of-Spain (Trinidad),NA,"Sammy, DJG (b1983-12-20)","Baugh, CS (b1982-6-23)",2012-04-15,2012-04-19,5,draw,draw,0,2,2,53,0,0,6,0,50,0
+20120423_02042_Roseau,West Indies,2,Roseau,NA,"Sammy, DJG (b1983-12-20)","Baugh, CS (b1982-6-23)",2012-04-23,2012-04-27,5,Australia,runs,75,1,10,218,1,5,1,2,360,0
+20120423_02042_Roseau,West Indies,2,Roseau,NA,"Sammy, DJG (b1983-12-20)","Baugh, CS (b1982-6-23)",2012-04-23,2012-04-27,5,Australia,runs,75,2,10,294,0,0,3,9,380,0
+20121109_02056_Gabba,Australia,2,Brisbane ('Gabba),NA,"Clarke, MJ (b1981-4-2)","Wade, MS (b1987-12-26)",2012-11-09,2012-11-13,5,draw,draw,0,1,5,565,1,23,0,14,627,0
+20121109_02056_Gabba,Australia,2,Brisbane ('Gabba),NA,"Clarke, MJ (b1981-4-2)","Wade, MS (b1987-12-26)",2012-11-09,2012-11-13,5,draw,draw,0,2,0,0,0,0,0,0,0,0
+20121122_02061_Adlaide,South Africa,2,Adelaide,NA,"Smith, GC (b1981-2-1)","de Villiers, AB (b1984-2-17)",2012-11-22,2012-11-26,5,draw,draw,0,1,10,388,3,6,7,2,502,0
+20121122_02061_Adlaide,South Africa,2,Adelaide,NA,"Smith, GC (b1981-2-1)","de Villiers, AB (b1984-2-17)",2012-11-22,2012-11-26,5,draw,draw,0,2,8,248,1,1,1,1,549,0
+20121130_02064_Perth,Australia,2,Perth (WACA),NA,"Clarke, MJ (b1981-4-2)","Wade, MS (b1987-12-26)",2012-11-30,2012-12-03,5,South Africa,runs,309,1,10,163,0,0,0,5,254,0
+20121130_02064_Perth,Australia,2,Perth (WACA),NA,"Clarke, MJ (b1981-4-2)","Wade, MS (b1987-12-26)",2012-11-30,2012-12-03,5,South Africa,runs,309,2,10,322,2,0,0,3,377,0
+19951208_01317_Perth,Australia,2,Perth (WACA),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1995-12-08,1995-12-11,5,Australia,innings and runs,36,1,5,617,0,18,4,6,698,0
+19951208_01317_Perth,Australia,2,Perth (WACA),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1995-12-08,1995-12-11,5,Australia,innings and runs,36,2,0,0,0,0,0,0,0,0
+19951226_01319_MCG,Sri Lanka,2,Melbourne (MCG),NA,"Ranatunga, A (b1963-12-1)","Kaluwitharana, RS (b1969-11-24)",1995-12-26,1995-12-30,5,Australia,wickets,10,1,10,233,0,7,6,7,385,0
+19951226_01319_MCG,Sri Lanka,2,Melbourne (MCG),NA,"Ranatunga, A (b1963-12-1)","Kaluwitharana, RS (b1969-11-24)",1995-12-26,1995-12-30,5,Australia,wickets,10,2,10,307,0,8,7,5,488,0
+19960125_01324_Adlaide,Sri Lanka,2,Adelaide,NA,"de Silva, PA (b1965-10-17)","Kaluwitharana, RS (b1969-11-24)",1996-01-25,1996-01-29,5,Australia,runs,148,1,10,317,1,7,8,13,414,0
+19960125_01324_Adlaide,Sri Lanka,2,Adelaide,NA,"de Silva, PA (b1965-10-17)","Kaluwitharana, RS (b1969-11-24)",1996-01-25,1996-01-29,5,Australia,runs,148,2,10,252,0,9,1,6,384,0
+19961010_01335_DelhiFK,India,2,Delhi (Feroz Shah Kotla),NA,"Tendulkar, SR (b1973-4-24)","Mongia, NR (b1969-12-19)",1996-10-10,1996-10-13,5,India,wickets,7,1,10,361,0,10,10,1,519,0
+19961010_01335_DelhiFK,India,2,Delhi (Feroz Shah Kotla),NA,"Tendulkar, SR (b1973-4-24)","Mongia, NR (b1969-12-19)",1996-10-10,1996-10-13,5,India,wickets,7,2,3,58,1,1,0,0,66,0
+19961122_01340_Gabba,West Indies,2,Brisbane ('Gabba),NA,"Walsh, CA (b1962-10-30)","Browne, CO (b1970-12-7)",1996-11-22,1996-11-26,5,Australia,runs,123,1,10,277,1,17,0,8,446,0
+19961122_01340_Gabba,West Indies,2,Brisbane ('Gabba),NA,"Walsh, CA (b1962-10-30)","Browne, CO (b1970-12-7)",1996-11-22,1996-11-26,5,Australia,runs,123,2,10,296,0,7,8,3,420,0
+19961129_01343_Sydney,West Indies,2,Sydney (SCG),NA,"Walsh, CA (b1962-10-30)","Browne, CO (b1970-12-7)",1996-11-29,1996-12-03,5,Australia,runs,124,1,10,304,0,10,4,6,472,0
+19961129_01343_Sydney,West Indies,2,Sydney (SCG),NA,"Walsh, CA (b1962-10-30)","Browne, CO (b1970-12-7)",1996-11-29,1996-12-03,5,Australia,runs,124,2,10,215,0,1,0,2,265,0
+19970724_01373_Headgly,Australia,2,Leeds (Headingley),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1997-07-24,1997-07-28,5,Australia,innings and runs,61,1,9,501,0,35,9,10,509,0
+19970724_01373_Headgly,Australia,2,Leeds (Headingley),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1997-07-24,1997-07-28,5,Australia,innings and runs,61,2,0,0,0,0,0,0,0,0
+19970807_01375_TrentBr,England,2,Nottingham (Trent Bridge),NA,"Atherton, MA (b1968-3-23)","Stewart, AJ (b1963-4-8)",1997-08-07,1997-08-10,5,Australia,runs,264,1,10,313,0,5,2,6,398,0
+19970807_01375_TrentBr,England,2,Nottingham (Trent Bridge),NA,"Atherton, MA (b1968-3-23)","Stewart, AJ (b1963-4-8)",1997-08-07,1997-08-10,5,Australia,runs,264,2,10,186,0,4,6,2,217,0
+19970821_01377_TheOval,Australia,2,The Oval,NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1997-08-21,1997-08-23,5,England,runs,19,1,10,220,1,5,0,3,326,0
+19970821_01377_TheOval,Australia,2,The Oval,NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1997-08-21,1997-08-23,5,England,runs,19,2,10,104,1,2,3,4,152,0
+19971107_01383_Gabba,New Zealand,2,Brisbane ('Gabba),NA,"Fleming, SP (b1973-4-1)","Parore, AC (b1971-1-23)",1997-11-07,1997-11-11,5,Australia,runs,186,1,10,349,0,17,4,4,540,0
+19971107_01383_Gabba,New Zealand,2,Brisbane ('Gabba),NA,"Fleming, SP (b1973-4-1)","Parore, AC (b1971-1-23)",1997-11-07,1997-11-11,5,Australia,runs,186,2,10,132,0,6,0,2,258,0
+19971120_01386_Perth,Australia,2,Perth (WACA),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1997-11-20,1997-11-23,5,Australia,innings and runs,70,1,10,461,0,7,6,5,532,0
+19971120_01386_Perth,Australia,2,Perth (WACA),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1997-11-20,1997-11-23,5,Australia,innings and runs,70,2,0,0,0,0,0,0,0,0
+19971127_01388_Bellrve,New Zealand,2,Hobart (Bellerive),NA,"Fleming, SP (b1973-4-1)","Parore, AC (b1971-1-23)",1997-11-27,1997-12-01,5,draw,draw,0,1,6,251,0,4,1,2,354,0
+19971127_01388_Bellrve,New Zealand,2,Hobart (Bellerive),NA,"Fleming, SP (b1973-4-1)","Parore, AC (b1971-1-23)",1997-11-27,1997-12-01,5,draw,draw,0,2,9,223,0,0,2,7,251,0
+19971226_01392_MCG,South Africa,2,Melbourne (MCG),NA,"Cronje, WJ (b1969-9-25)","Richardson, DJ (b1959-9-16)",1997-12-26,1997-12-30,5,draw,draw,0,1,10,186,1,6,0,2,416,0
+19971226_01392_MCG,South Africa,2,Melbourne (MCG),NA,"Cronje, WJ (b1969-9-25)","Richardson, DJ (b1959-9-16)",1997-12-26,1997-12-30,5,draw,draw,0,2,7,273,0,6,5,4,483,0
+19980102_01393_Sydney,Australia,2,Sydney (SCG),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1998-01-02,1998-01-05,5,Australia,innings and runs,21,1,10,421,0,6,1,12,646,0
+19980102_01393_Sydney,Australia,2,Sydney (SCG),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1998-01-02,1998-01-05,5,Australia,innings and runs,21,2,0,0,0,0,0,0,0,0
+19980130_01397_Adlaide,Australia,2,Adelaide,NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1998-01-30,1998-02-03,5,draw,draw,0,1,10,350,0,5,2,12,524,0
+19980130_01397_Adlaide,Australia,2,Adelaide,NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1998-01-30,1998-02-03,5,draw,draw,0,2,7,227,0,6,2,0,444,0
+19980306_01405_Chepauk,Australia,2,Chennai (Chepauk),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1998-03-06,1998-03-10,5,India,runs,179,1,10,328,0,3,1,6,517,0
+19980306_01405_Chepauk,Australia,2,Chennai (Chepauk),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1998-03-06,1998-03-10,5,India,runs,179,2,10,168,0,4,4,3,260,0
+19980318_01409_Calcutt,India,2,Kolkata (Calcutta),NA,"Azharuddin, M (b1963-2-8)","Mongia, NR (b1969-12-19)",1998-03-18,1998-03-21,5,India,innings and runs,219,1,5,633,0,9,2,7,647,0
+19980318_01409_Calcutt,India,2,Kolkata (Calcutta),NA,"Azharuddin, M (b1963-2-8)","Mongia, NR (b1969-12-19)",1998-03-18,1998-03-21,5,India,innings and runs,219,2,0,0,0,0,0,0,0,0
+19980325_01413_Bangalr,Australia,2,Bangalore,NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1998-03-25,1998-03-28,5,Australia,wickets,8,1,10,400,0,3,12,5,419,0
+19980325_01413_Bangalr,Australia,2,Bangalore,NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1998-03-25,1998-03-28,5,Australia,wickets,8,2,2,195,0,0,8,5,209,0
+19981015_01426_PeshwrA,Pakistan,2,Peshawar (Arbab Niaz Ground),NA,Aamer Sohail (b1966-9-14),Moin Khan (b1971-9-23),1998-10-15,1998-10-19,5,draw,draw,0,1,9,580,1,4,5,9,702,0
+19981015_01426_PeshwrA,Pakistan,2,Peshawar (Arbab Niaz Ground),NA,Aamer Sohail (b1966-9-14),Moin Khan (b1971-9-23),1998-10-15,1998-10-19,5,draw,draw,0,2,0,0,0,0,0,0,0,0
+19981120_01428_Gabba,England,2,Brisbane ('Gabba),NA,"Stewart, AJ (b1963-4-8)","Stewart, AJ (b1963-4-8)",1998-11-20,1998-11-24,5,draw,draw,0,1,10,375,0,12,1,9,513,0
+19981120_01428_Gabba,England,2,Brisbane ('Gabba),NA,"Stewart, AJ (b1963-4-8)","Stewart, AJ (b1963-4-8)",1998-11-20,1998-11-24,5,draw,draw,0,2,6,179,1,9,0,3,255,0
+19981128_01431_Perth,Australia,2,Perth (WACA),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1998-11-28,1998-11-30,5,Australia,wickets,7,1,10,240,0,13,1,10,390,0
+19981128_01431_Perth,Australia,2,Perth (WACA),NA,"Taylor, MA (b1964-10-27)","Healy, IA (b1964-4-30)",1998-11-28,1998-11-30,5,Australia,wickets,7,2,3,64,0,2,0,3,101,0
+19981211_01434_Adlaide,England,2,Adelaide,NA,"Stewart, AJ (b1963-4-8)","Stewart, AJ (b1963-4-8)",1998-12-11,1998-12-15,5,Australia,runs,205,1,10,227,1,5,1,3,311,0
+19981211_01434_Adlaide,England,2,Adelaide,NA,"Stewart, AJ (b1963-4-8)","Stewart, AJ (b1963-4-8)",1998-12-11,1998-12-15,5,Australia,runs,205,2,10,237,0,14,7,9,336,0
+19990326_01453_Bridgtn,West Indies,2,Bridgetown (Barbados),NA,"Lara, BC (b1969-5-2)","Jacobs, RD (b1967-11-26)",1999-03-26,1999-03-30,5,West Indies,wickets,1,1,10,329,0,20,10,3,439,0
+19990326_01453_Bridgtn,West Indies,2,Bridgetown (Barbados),NA,"Lara, BC (b1969-5-2)","Jacobs, RD (b1967-11-26)",1999-03-26,1999-03-30,5,West Indies,wickets,1,2,9,311,2,5,8,13,523,0
+19990403_01454_St.John,West Indies,2,St. John's (Antigua),NA,"Lara, BC (b1969-5-2)","Jacobs, RD (b1967-11-26)",1999-04-03,1999-04-07,5,Australia,runs,176,1,10,222,0,6,0,0,329,0
+19990403_01454_St.John,West Indies,2,St. John's (Antigua),NA,"Lara, BC (b1969-5-2)","Jacobs, RD (b1967-11-26)",1999-04-03,1999-04-07,5,Australia,runs,176,2,10,211,0,3,5,12,407,0
+19990909_01459_Kandy,Sri Lanka,2,Kandy,NA,"Jayasuriya, ST (b1969-6-30)","Kaluwitharana, RS (b1969-11-24)",1999-09-09,1999-09-11,5,Sri Lanka,wickets,6,1,10,234,0,3,4,7,272,0
+19990909_01459_Kandy,Sri Lanka,2,Kandy,NA,"Jayasuriya, ST (b1969-6-30)","Kaluwitharana, RS (b1969-11-24)",1999-09-09,1999-09-11,5,Sri Lanka,wickets,6,2,4,95,0,3,8,2,110,0
+19990922_01460_Galle,Australia,2,Galle,NA,"Waugh, SR (b1965-6-2)","Healy, IA (b1964-4-30)",1999-09-22,1999-09-26,5,draw,draw,0,1,10,228,0,2,1,4,355,0
+19990922_01460_Galle,Australia,2,Galle,NA,"Waugh, SR (b1965-6-2)","Healy, IA (b1964-4-30)",1999-09-22,1999-09-26,5,draw,draw,0,2,0,0,0,0,0,0,0,0
+19990930_01461_ColSSC,Sri Lanka,2,Colombo (SSC),NA,"Jayasuriya, ST (b1969-6-30)","Kaluwitharana, RS (b1969-11-24)",1999-09-30,1999-10-04,5,draw,draw,0,1,4,61,5,4,8,1,91,0
+19990930_01461_ColSSC,Sri Lanka,2,Colombo (SSC),NA,"Jayasuriya, ST (b1969-6-30)","Kaluwitharana, RS (b1969-11-24)",1999-09-30,1999-10-04,5,draw,draw,0,2,0,0,0,0,0,0,0,0
+19991014_01463_Harare,Australia,2,Harare,NA,"Waugh, SR (b1965-6-2)","Healy, IA (b1964-4-30)",1999-10-14,1999-10-17,5,Australia,wickets,10,1,10,422,4,1,0,5,563,0
+19991014_01463_Harare,Australia,2,Harare,NA,"Waugh, SR (b1965-6-2)","Healy, IA (b1964-4-30)",1999-10-14,1999-10-17,5,Australia,wickets,10,2,0,5,1,0,0,0,3,0
+19991105_01467_Gabba,Australia,2,Brisbane ('Gabba),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",1999-11-05,1999-11-09,5,Australia,wickets,10,1,10,575,0,26,3,12,607,0
+19991105_01467_Gabba,Australia,2,Brisbane ('Gabba),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",1999-11-05,1999-11-09,5,Australia,wickets,10,2,0,74,0,0,0,2,56,0
+19991118_01469_Bellrve,Australia,2,Hobart (Bellerive),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",1999-11-18,1999-11-22,5,Australia,wickets,4,1,10,246,0,5,2,6,357,0
+19991118_01469_Bellrve,Australia,2,Hobart (Bellerive),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",1999-11-18,1999-11-22,5,Australia,wickets,4,2,6,369,0,4,1,4,504,0
+19991126_01472_Perth,Australia,2,Perth (WACA),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",1999-11-26,1999-11-28,5,Australia,innings and runs,20,1,10,451,0,26,9,9,517,0
+19991126_01472_Perth,Australia,2,Perth (WACA),NA,"Waugh, SR (b1965-6-2)","Gilchrist, AC (b1971-11-14)",1999-11-26,1999-11-28,5,Australia,innings and runs,20,2,0,0,0,0,0,0,0,0
+19991210_01476_Adlaide,India,2,Adelaide,NA,"Tendulkar, SR (b1973-4-24)","Prasad, MSK (b1975-4-24)",1999-12-10,1999-12-14,5,Australia,runs,285,1,10,285,1,19,0,1,464,0
+19991210_01476_Adlaide,India,2,Adelaide,NA,"Tendulkar, SR (b1973-4-24)","Prasad, MSK (b1975-4-24)",1999-12-10,1999-12-14,5,Australia,runs,285,2,10,110,0,5,0,1,177,0
+19991226_01479_MCG,India,2,Melbourne (MCG),NA,"Tendulkar, SR (b1973-4-24)","Prasad, MSK (b1975-4-24)",1999-12-26,1999-12-30,5,Australia,runs,180,1,10,238,0,9,0,8,346,0
+19991226_01479_MCG,India,2,Melbourne (MCG),NA,"Tendulkar, SR (b1973-4-24)","Prasad, MSK (b1975-4-24)",1999-12-26,1999-12-30,5,Australia,runs,180,2,9,195,0,3,0,4,371,0
