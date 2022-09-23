@@ -21,7 +21,7 @@
 # Pick one of these -------------------------------------------------------
 
 
-tidydir<-"tidy/men/international/test/test_"
+tidydir<-"tidy/men/international/test/test_"  # This is the only one available for this demo
 
 
 
