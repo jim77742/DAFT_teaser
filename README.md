@@ -27,7 +27,7 @@ If you are unfamiliar with the Tidyverse, Hadley Wickham’s book “R for Data 
 https://r4ds.had.co.nz
 
 
-After installation of the above, to use this DAFT teaser, you need to "clone" this repository to your machine. On the GitHub web page click "Code" and then "Open with GitHub Desktop". A directory will be entered where this code will go. Make sure it is where you want it, and then click "Clone".
+After installation of the above, to use this DAFT teaser, you need to "clone" this repository to your machine. On the GitHub web page (probably just above where you are reading now) click "Code" and then "Open with GitHub Desktop". A directory will be entered where this code will go. Make sure it is where you want it, and then click "Clone".
 
 Next start up RStudio and click "File > Open Project...", navigate to the directory you chose above (of your recent clone of DAFT_teaser), and then select the DAFT_teaser.Rproj file, then click "Open".
 
