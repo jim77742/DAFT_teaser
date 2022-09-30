@@ -145,12 +145,12 @@ ground<-teams %>% group_by(venue) %>% summarise(matches=n_distinct(match_id),run
 
 # This shows year by year how the player you pick in the filter() went
 
-batter<-bat %>% filter(batter=="Ponting, RT (b1974-12-19)") %>% mutate(year=substr(start_date,1,4)) %>% group_by(year) %>% summarise(runs=sum(score),outs=sum(out),avg=round(runs/outs,digits=2))
+batter<-bat %>% filter(str_detect(batter,"Ponting")) %>% mutate(year=substr(start_date,1,4)) %>% group_by(year) %>% summarise(runs=sum(score),outs=sum(out),avg=round(runs/outs,digits=2))
 
 
 # Pick a particular players and year, and create a dataframe with each innings
 
-batter_detail<-bat %>% filter(batter=="Ponting, RT (b1974-12-19)") %>% mutate(year=substr(start_date,1,4)) %>% filter(year=="2003")
+batter_detail<-bat %>% filter(str_detect(batter,"Ponting")) %>% mutate(year=substr(start_date,1,4)) %>% filter(year=="2003")
 
 
 
